@@ -7,6 +7,7 @@ const Config = {
     disqusShortname:"eatsomemore",
     postPerPage:16,
     googleAnaltics:"UA-114032457-2",
+    alwaysRefreshPost: false,
     gh_custom_domain: false
 
 }
