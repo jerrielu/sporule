@@ -1,13 +1,13 @@
 ---
-title: "高棉热浪 4/4"
+title: "拉脱维亚"
 author: "九姨"
 date: "null"
-categories: "柬埔寨"
-tags: ""
+categories: "拉脱维亚"
+tags: "拉脱维亚"
 ---
 
 123
-ies: "拉脱维亚"
+ies: ""
 tags: ""
 ---
 
