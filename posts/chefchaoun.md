@@ -3,7 +3,7 @@ title: "摩洛哥环游记 5/5【沙温】"
 author: "九姨"
 date: "null"
 categories: "摩洛哥"
-tags: ""
+tags: "沙温,沙夫沙万,舍夫沙万"
 ---
 
 123
