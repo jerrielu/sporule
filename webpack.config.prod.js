@@ -119,7 +119,7 @@ module.exports = {
     }),
     new webpack.optimize.OccurrenceOrderPlugin(),
     new OfflinePlugin({
-      responseStrategy: 'network-first',
+      responseStrategy: 'cache-first',
       excludes: ['**/.*', '**/*.map', '**/*.gz', '**/*.txt', '**/sw.js', '**/*.md', '**/_redirects', '**/*.jpg', '**/*.png', '**/*.gif'],
       autoUpdate: 1000 * 60 * 60 * 10,
       externals: [
