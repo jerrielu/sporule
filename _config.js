@@ -5,7 +5,7 @@ const Config = {
     keywords:"food, travel",
     logo:"https://i.imgur.com/MrRLOC4.png",
     disqusShortname:"eatsomemore",
-    postPerPage:16,
+    postPerPage:24,
     googleAnaltics:"UA-114032457-2",
     alwaysRefreshPost: false,
     gh_custom_domain: false
