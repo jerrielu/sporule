@@ -1,5 +1,6 @@
 const Config = {
     site: "Eatsomemore",
+    subTitle:"SubTitle",
     url:"https://www.eatsomemore.com",
     description: "Eatsomemore - 吃什么",
     keywords:"food, travel",
