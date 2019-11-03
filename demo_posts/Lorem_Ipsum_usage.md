@@ -1,7 +1,7 @@
 ---
 title: "Lorem Ipsum Demo Post"
 author: "Sporule"
-date: "2019-09-12"
+date: "null"
 categories: "Demo"
 tags: "tagA,tagB,tagC"
 coverImage: "images/logo.png"

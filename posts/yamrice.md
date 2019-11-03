@@ -1,7 +1,7 @@
 ---
 title: "怀石料理之山药泥拌饭"
 author: "九姨"
-date: "2017-10-15"
+date: "null"
 categories: "日本"
 tags: "山药,怀石料理,米其林"
 coverImage: "images/0IMG_20161205_124413.jpg"

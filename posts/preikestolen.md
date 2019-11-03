@@ -1,7 +1,7 @@
 ---
 title: "北欧之南布道岩【挪威（下）】"
 author: "九姨"
-date: "2019-02-03"
+date: "null"
 categories: "挪威"
 tags: "大西洋,峡湾,布道岩,徒步,挪威,草坪屋顶"
 coverImage: "images/05293010.jpg"

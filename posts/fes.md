@@ -1,7 +1,7 @@
 ---
 title: "摩洛哥环游记 4/5【菲斯】"
 author: "九姨"
-date: "2019-09-15"
+date: "null"
 categories: "摩洛哥"
 tags: "古兰经学校,塔吉锅,大染坊,宣礼塔,木雕博物馆,沙夫沙万,菲斯,蓝门,马林王朝"
 coverImage: "images/20190524_132523.jpg"

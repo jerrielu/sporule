@@ -1,7 +1,7 @@
 ---
 title: "日本中部关西双城赏枫记 2/5【白川乡】【金泽】【加贺】"
 author: "九姨"
-date: "2018-12-22"
+date: "null"
 categories: "日本"
 tags: "丼,兼六园,加贺,海鲜,温泉,白川乡,金泽"
 coverImage: "images/0IMG_20161203_232547.jpg"

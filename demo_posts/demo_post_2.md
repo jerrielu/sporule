@@ -1,7 +1,7 @@
 ---
 title: "This is another Demo Post"
 author: "Sporule"
-date: "2019-09-10"
+date: "null"
 categories: "Another Demo"
 tags: "tagA,tagD"
 coverImage: "https://i.imgur.com/GzmpA4s.png"

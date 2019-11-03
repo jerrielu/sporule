@@ -1,7 +1,7 @@
 ---
 title: "春日悠游西班牙之巴塞罗纳（下）"
 author: "九姨"
-date: "2019-02-16"
+date: "null"
 categories: "西班牙"
 tags: "卡尔维特之家,圣家堂,奎尔公园,巴特洛之家,格拉西亚大道,米拉之家,高迪"
 coverImage: "images/IMG_20160326_183237.jpg"

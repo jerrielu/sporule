@@ -1,7 +1,7 @@
 ---
 title: "日本中部关西双城赏枫记 3/5【京都（上）】"
 author: "九姨"
-date: "2018-12-30"
+date: "null"
 categories: "日本"
 tags: "京都,加贺,啤酒,岚山,广川,抹茶,柴山瀉,温泉,竹林,米其林,红叶,鳗鱼饭"
 coverImage: "images/0IMG_20161204_071005.jpg"
