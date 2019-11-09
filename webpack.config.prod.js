@@ -11,7 +11,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const SitemapPlugin = require('sitemap-webpack-plugin').default;
 const Config = require("./_config");
-
+const MarkdownRSSGeneratorPlugin = require("markdown-rss-generator-webpack-plugin").default;
 
 module.exports = {
   mode: "production",
@@ -90,18 +90,29 @@ module.exports = {
           context: __dirname + "/posts",
           from: 'images/**/*',
           to: '',
-        },
-        {
-          context: __dirname + "/src",
-          from: 'yandex_a1ea01ae816554fb.html',
-          to: '',
         }
-        
       ]
     ),
     new SitemapPlugin(Config.url, [
       "/"
     ]),
+    new MarkdownRSSGeneratorPlugin({
+      title: Config.site,
+      outputPath: "rss.xml", //rss file output path
+      description: Config.description,
+      link: Config.url,
+      language: "cn",
+      image: "https://i.imgur.com/vfh3Une.png",
+      favicon: "https://i.imgur.com/vfh3Une.png",
+      copyright: "All rights reserved 2019, Eatsomemore",
+      updated: new Date(), //updated date
+      generator: "Sporule",
+      author: {
+          name: "Eatsomemore",
+          email: "example@example.com",
+          link: "https://www.eatsomemore.com"
+      },
+    }),
     new RobotstxtPlugin({
       policy: [
         {
@@ -123,7 +134,7 @@ module.exports = {
         events: true
       },
       responseStrategy: 'cache-first',
-      excludes: ['**/.*', '**/*.map', '**/*.gz', '**/*.txt', '**/sw.js', '**/*.md', '**/_redirects', '**/*.jpg', '**/*.png', '**/*.gif'],
+      excludes: ['**/.*', '**/*.map', '**/*.gz', '**/*.xml','**/*.txt', '**/sw.js', '**/*.md', '**/_redirects', '**/*.jpg', '**/*.png', '**/*.gif'],
       autoUpdate: 1000 * 60 * 60 * 10,
       externals: [
         'https://cdn.jsdelivr.net/npm/pwacompat@2.0.7/pwacompat.min.js',
