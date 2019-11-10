@@ -176,7 +176,7 @@ module.exports = {
           ios: 'startup'
         },
         {
-          src: path.resolve('publish_assets/logo.png'),
+          src: path.resolve('publish_assets/logo-ios.png'),
           sizes: [36, 48, 72, 96, 144, 192, 512],
           destination: path.join('icons', 'android')
         }
