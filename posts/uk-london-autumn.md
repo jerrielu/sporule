@@ -1,5 +1,5 @@
 ---
-title: "伦敦［秋］"
+title: "伦敦"
 author: "九姨"
 date: "2019-11-10"
 categories: "游记"
@@ -35,6 +35,7 @@ coverImage: "images/310242823.jpg"
 ![伦敦](images/1863606397.jpg)
 
 如何享受伦敦独有的购物体验？你有一个选择在买买买的同时，可以走走看看、可以了解 英国故事、也可以惬意悠闲地体会一下英国下午茶时光。夜晚远远就能看见整个房子在发光的就是传说中的哈罗德百货。在这个百货公司里面设有戴安娜和她的男朋友的纪念碑。哈罗德百货的乔治餐厅Geogian Restaurant的下午茶也是鼎鼎大名的。我看过许多介绍下午茶的文章和节目，可不可以容我严肃地跟大家说一说，英式下午茶，没有错是三层的，但是顺序是由下至上：三明治、司空饼、各式甜点。
+
 ![伦敦](images/P1000647.jpg)
 
 伦敦最可爱的地方是，在拥有以上这些光鲜得不要不要的地方的同时，这个城市里还有三个环境优美的大公园，即Hyde Park，Regent's Park和Green Park。
@@ -44,8 +45,8 @@ coverImage: "images/310242823.jpg"
 ![伦敦](images/310242823.jpg)
 
 
-点击就看伦敦吃什么
+[点击就看伦敦吃什么](/posts/categories/%E7%BE%8E%E9%A3%9F?pagetype=uk-food&tags=%E8%8B%B1%E5%9B%BD,%E4%BC%A6%E6%95%A6&extags=)
 
-点击就看伦敦玩什么
+[点击就看伦敦玩什么](/posts/categories/攻略?pagetype=uk-play&tags=英国,伦敦&extags=)
 
-点击就看全部上述内容
+[点击就看全部上述内容](/posts?tags=%E4%BC%A6%E6%95%A6)
