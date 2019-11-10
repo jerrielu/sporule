@@ -1,9 +1,9 @@
 ---
-title: "［精选］威尔士Snowdonia米其林一星英国菜Tyddyn Llan"
+title: "威尔士Snowdonia米其林一星英国菜Tyddyn Llan"
 author: "九姨"
 date: "2019-11-03"
 categories: "美食"
-tags: "英国,威尔士,米其林"
+tags: "英国,威尔士,米其林,精选"
 coverImage: "images/IMG_20170730_143428.jpg"
 ---
 
@@ -28,7 +28,7 @@ coverImage: "images/IMG_20170730_143428.jpg"
 米其林一星的周日烤肉烹调恰到好处，外缘有嚼头，内里柔嫩多汁。多种配菜当中，油炸节瓜好吃到飞起。食材切得手指形状，裹粉细腻，外皮炸得香酥，节瓜脆甜，一根接一根，根本停不下来。
 ![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_145503.jpg)
 
-网站：https://www.tyddynllan.co.uk/north-wales-restaurant
+网站：[https://www.tyddynllan.co.uk/north-wales-restaurant](https://www.tyddynllan.co.uk/north-wales-restaurant)
 
 价格：周五、六、日午餐定食£35起，晚餐三道菜定食£70，六道菜定食£85，八道菜定食£95。
 
