@@ -1,7 +1,7 @@
 ---
 title: "圣诞在曼谷“泰”惬意 2/4"
 author: "九姨"
-date: "2020-02-"
+date: ""
 categories: "游记"
 tags: "泰国,米其林,曼谷,大皇宫,玉佛寺,Methavalai Sorndaeng,Chatuchak,Baan Phadthai"
 coverImage: "images/IMG_20191228_100534.jpg"
