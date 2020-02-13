@@ -1,7 +1,7 @@
 ---
-title: "圣诞在曼谷“泰”惬意 2/4"
+title: "圣诞在曼谷“泰”惬意 3/4"
 author: "九姨"
-date: "2020-02-23"
+date: "2020-03-08"
 categories: "游记"
 tags: "泰国,米其林,曼谷,大皇宫,玉佛寺,Methavalai Sorndaeng,Chatuchak,Baan Phadthai"
 coverImage: "images/IMG_20191228_100534.jpg"
@@ -39,7 +39,7 @@ coverImage: "images/IMG_20191228_100534.jpg"
 
 ![曼谷](images/IMG_20191228_123707.jpg)
 
->路上一所烟火鼎盛的神社，贴心地提供了泰英双语的参拜须知。
+路上一所烟火鼎盛的神社，贴心地提供了泰英双语的参拜须知。
 
 ![曼谷](images/IMG_20191228_123031.jpg)
 
