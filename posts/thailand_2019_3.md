@@ -1,9 +1,9 @@
 ---
-title: "圣诞在曼谷“泰”惬意 4/4"
+title: "圣诞在曼谷“泰”惬意 3/5"
 author: "九姨"
-date: "2020-03-22"
+date: "2020-03-08"
 categories: "游记"
-tags: "泰国,曼谷,米其林,Iconsiam,Seenspace"
+tags: "泰国,华欣,Seenspace"
 coverImage: "images/IMG_20191229_125637.jpg"
 ---
 
