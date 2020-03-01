@@ -1,35 +1,54 @@
 ---
-title: "威尔士Snowdonia米其林二星英国菜Dinner by Heston Blumenthal"
-author: "九姨"
-date: ""
-categories: "美食"
-tags: "英国,威尔士,米其林,精选"
-coverImage: "images/IMG_20170730_143428.jpg"
+title: "海德公园野餐的地理位置＋米其林二星的用餐体验＝Dinner by Heston Blumenthal"
+author: "九姨"
+date: "2020-04-19"
+categories: "美食"
+tags: "英国,英格兰,米其林,精选,英国菜,伦敦"
+coverImage: "IMG_20200112_125011.jpg"
 ---
 
-北威尔士风景名胜雪窦尼亚国家公园东南麓的乡村里有一间猫途鹰Tripadvisor网站卓越奖得主，米其林一星餐厅Tyddyn Llan。
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_141556.jpg)
+>蝉联猫途鹰Tripadvisor网站卓越奖四年、米其林二星的英国菜餐厅Dinner by Heston Blumenthal，与海德公园仅一窗之隔。除了优秀的景观，餐厅的菜单也极具巧思，封面上画的是庞贝最后的晚餐，腰封里写着关于番茄酱的冷知识，说真正的番茄酱在1801年在美国首次出现，而此前在英国的“番茄酱”是用蘑菇、黄瓜、鳀鱼、核桃、柠檬或者贝类制成的酸甜酱汁。
 
-餐前小点的素质就已经出类拔萃。油炸芝士外脆内滑，奶油三文鱼卷幼滑咸鲜，炸饼香酥，苏格兰蛋香甜弹牙。
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_141308.jpg)
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200301_130350.jpg)
 
-餐厅陈设清新雅致、复古大气。
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_152028.jpg)
+>凉透的酸种面包，表皮比较硬，内里则比较柔软，具有极佳的空气感与湿度，还带有一些焦香和香料的味道。
 
-英国的夏天，凉凉的海边，将这样的温度、气息和感觉入菜，最恰当莫过蟹肉沙拉——取康郡面包蟹肉佐以蟹黄慕斯、豌豆苗、甜茴香、樱桃萝卜和牛油果泥。沙拉当中既有海味、鲜味，又有清香、奶香，一夏的回忆都在这道菜里啦！
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_143428.jpg)
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_123858.jpg)
 
-蒜油茄子泥顶香烤红鲻鱼。
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_143417.jpg)
+>烟熏三文鱼搭配烟熏甜菜根、腌渍柠檬沙拉、欧芹和酢浆草，鱼肉非常柔软，丰富的脂肪迸发出鱼油的鲜味，与甜菜根和柠檬的酸甜果味意外地特别合衬。蔬菜新鲜得甚至还带着细密的绒毛，饱含清甜的汁水。
 
-洋葱青豆炖内脏。
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_145316.jpg)
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_125745.jpg)
 
-米其林一星的周日烤肉烹调恰到好处，外缘有嚼头，内里柔嫩多汁。多种配菜当中，油炸节瓜好吃到飞起。食材切得手指形状，裹粉细腻，外皮炸得香酥，节瓜脆甜，一根接一根，根本停不下来。
-![Snowdonia-米其林一星-Tyddyn-Llan](images/IMG_20170730_145503.jpg)
+>蒜香蜗牛沙拉的酱味很浓，有些夺了蜗牛本身的风味。烤生菜非常脆。蘑菇经过了欧芹和鳀鱼的调味，鲜味翻倍。
 
-网站：[https://www.tyddynllan.co.uk/north-wales-restaurant](https://www.tyddynllan.co.uk/north-wales-restaurant)
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_125818.jpg)
 
-价格：周五、六、日午餐定食£35起，晚餐三道菜定食£70，六道菜定食£85，八道菜定食£95。
+>海军上将酱烤鳕鱼和朝鲜蓟，蒜瓣肉已经被烤得全熟，结构虽然松散，肉质却很有嚼劲，配上黄油续随子和去壳褐虾一起吃，更添鲜香层次。
 
-地址：Bryan and Susan Webb, Tyddyn Llan, Llandrillo, nr. Corwen, Denbighshire, North Wales LL21 0ST
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_132334.jpg)
+
+>烤鹌鹑非常的香，弹嫩而入味，骨头上还有些粉色，让我不禁想起我的童年最爱——家乡杭州吴山烤鸡的感觉。
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_132347.jpg)
+
+>金箔波希米亚蛋糕，换言之巧克力柚子慕斯蛋糕搭配蜂蜜冰淇淋。
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_140253.jpg)
+
+>西梅干罗望子塔
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_140345.jpg)
+
+>巧克力塔
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_142912.jpg)
+
+>跳跳糖雪糕
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_143952.jpg)
+
+网站：[https://dinnerbyheston.co.uk/](https://dinnerbyheston.co.uk/)
+
+价格：周一至周日午餐定食£48起，另外也有自选菜单和主厨精选菜单。
+
+地址：66 Knightsbridge, London SW1X 7LA
