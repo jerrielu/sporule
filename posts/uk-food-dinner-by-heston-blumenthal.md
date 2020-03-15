@@ -35,15 +35,15 @@ coverImage: "IMG_20200112_125011.jpg"
 
 ![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_140253.jpg)
 
->西梅干罗望子塔
+>西梅罗望子塔的上半部分神似焦糖布丁，柔软的奶黄糕体冰冰凉凉，带有天然而含蓄的甜味。在布丁和塔皮之间夹了一层西梅罗望子酱，增添了独特的酸甜风味。
 
 ![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_140345.jpg)
 
->巧克力塔
+>焦糖巧克力塔在嘴里化开的时候有浓郁的可可香。
 
 ![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_142912.jpg)
 
->跳跳糖雪糕
+>现场使用液氮古法制作的跳跳糖蜂蜜柠檬奶黄雪糕，蛋筒特别的薄和脆。
 
 ![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_143952.jpg)
 

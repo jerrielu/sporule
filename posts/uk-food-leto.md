@@ -2,8 +2,8 @@
 title: "伦敦私藏咖啡馆L'ETO Caffe"
 author: "九姨"
 date: "2019-12-08"
-categories: "英国"
-tags: "英国,英格兰,伦敦,精选,美食"
+categories: "美食"
+tags: "英国,英格兰,伦敦,精选"
 coverImage: "images/蜂蜜蛋糕-e1497207938126.jpg"
 ---
 
