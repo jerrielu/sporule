@@ -1,0 +1,20 @@
+---
+title: "朗科恩假日酒店 Holiday Inn Runcorn"
+author: "九姨"
+date: "2020-06-21"
+categories: "预定"
+tags: "英国,英格兰,朗科恩,推荐"
+coverImage: "images/IMG_20170729_085933.jpg"
+---
+
+到达酒店后竟又雨霁天晴，蓝天下田野的可爱景色顿时教人没了脾气，觉得喜欢。
+
+![朗科恩假日酒店](images/IMG_20170729_085933.jpg)
+
+房间的窗户俨然是“草色映帘青”。
+
+![朗科恩假日酒店](images/IMG_20170728_191742.jpg)
+
+网站：https://www.ihg.com/holidayinn/hotels/gb/en/runcorn/wrtrn/hoteldetail
+
+地址：Wood Lane, Beechwood, Cheshire, Runcorn, WA7 3HA 
