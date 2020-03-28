@@ -1,9 +1,9 @@
 ---
-title: "雪窦尼亚"
+title: "北威尔士美食健行之旅"
 author: "九姨"
 date: "null"
-categories: "游记"
-tags: "英国,威尔士,雪窦尼亚,夏"
+categories: "英国"
+tags: "健行,海鲜,米其林"
 coverImage: "images/IMG_20170729_162757.jpg"
 ---
 
