@@ -19,7 +19,7 @@ coverImage: "IMG_20171107_161859.jpg"
 
 ![喜粤 Grand_Imperial](images/IMG_20171107_161931.jpg)
 
->带子饺由带有蔬菜香的水晶皮裹着软嫩甘鲜的带子馅，是与娇俏虾饺截然不同的柔媚口味。
+>带子饺由带有蔬菜香的水晶皮裹着软嫩甘鲜的带子馅，是与娇俏虾饺截然不同的温柔口味。
 
 ![喜粤 Grand_Imperial](images/IMG_20171107_162447.jpg)
 
@@ -31,17 +31,17 @@ coverImage: "IMG_20171107_161859.jpg"
 
 ![喜粤 Grand_Imperial](images/IMG_20171107_162628.jpg)
 
->烧味双拼盖饭
+>吃粤菜怎么能错过烧味双拼盖饭呢！叉烧肥瘦相间，香甜弹嫩；烧鸭皮脆肉香，咸甜适中。
 
 ![喜粤 Grand_Imperial](images/IMG_20160802_142642.jpg)
 
->杨枝甘露
-
-![喜粤 Grand_Imperial](images/IMG_20160802_145136.jpg)
-
->百香果慕斯、马蹄啫喱
+>百香果慕斯有点甜，不过马蹄啫喱不论是口感还是味道都很清爽。
 
 ![喜粤 Grand_Imperial](images/IMG_20171107_170227.jpg)
+
+>然而港式甜品中的小公主当属杨枝甘露，除了芒果、西柚和西米外，还加入了火龙果颗粒，清新甘冽，酸甜可口。
+
+![喜粤 Grand_Imperial](images/IMG_20160802_145136.jpg)
 
 网站：[https://grandimperial.com.my/london-united-kingdom/](https://grandimperial.com.my/london-united-kingdom/)
 
