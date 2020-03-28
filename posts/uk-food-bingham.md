@@ -1,13 +1,13 @@
 ---
 title: "伦敦私藏 Bingham Restaurant"
 author: "九姨"
-date: ""
+date: "2020-05-31"
 categories: "美食"
 tags: "英国,英格兰,伦敦,推荐"
 coverImage: "images/leto_caffe_1.jpg"
 ---
 
-沿着公园附近的一条静谧小道到达了事先约好的午餐地点。窗外杨柳青青，泰晤士河流水潺潺，没有想到在这个地段还有这样恬静的餐馆。
+沿着里士满公园附近的一条静谧小道步行不远，就能到达连续四年获得猫途鹰Tripadvisor网站卓越奖的Bingham餐厅。窗外杨柳青青，泰晤士河流水潺潺，没有想到在这个地段还有这样恬静的餐馆。
 
 ![](images/20180825_121528-e1537891934722.jpg)
 
@@ -31,8 +31,6 @@ coverImage: "images/leto_caffe_1.jpg"
 
 ![](images/20180825_130942-e1537892114263.jpg)
 
-网站：https://letocaffe.co.uk/
+网站：https://www.binghamriverhouse.com/
 
-地址：155 Wardour Street, London, W1F 8WG
-
-营业时间：周日至周二 9:00 - 23:00, 周三至周六 8:00 - 23:00
+地址：61 - 63 Petersham Road, Richmond Upon Thames, Surrey TW10 6UT
