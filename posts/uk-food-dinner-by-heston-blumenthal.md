@@ -4,10 +4,14 @@ author: "九姨"
 date: "2020-04-19"
 categories: "美食"
 tags: "英国,英格兰,米其林,精选,英国菜,伦敦"
-coverImage: "IMG_20200112_125011.jpg"
+coverImage: "IMG_20200112_125745.jpg"
 ---
 
->蝉联猫途鹰Tripadvisor网站卓越奖四年、米其林二星的英国菜餐厅Dinner by Heston Blumenthal，与海德公园仅一窗之隔。除了优秀的景观，餐厅的菜单也极具巧思，封面上画的是庞贝最后的晚餐，腰封里写着关于番茄酱的冷知识，说真正的番茄酱在1801年在美国首次出现，而此前在英国的“番茄酱”是用蘑菇、黄瓜、鳀鱼、核桃、柠檬或者贝类制成的酸甜酱汁。
+>蝉联猫途鹰Tripadvisor网站卓越奖四年、米其林二星的英国菜餐厅Dinner by Heston Blumenthal，与海德公园仅一窗之隔。
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200112_125011.jpg)
+
+>除了优秀的景观，餐厅的菜单也极具巧思，封面上画的是庞贝最后的晚餐，腰封里写着关于番茄酱的冷知识，说真正的番茄酱在1801年在美国首次出现，而此前在英国的“番茄酱”是用蘑菇、黄瓜、鳀鱼、核桃、柠檬或者贝类制成的酸甜酱汁。
 
 ![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/IMG_20200301_130350.jpg)
 
@@ -52,3 +56,5 @@ coverImage: "IMG_20200112_125011.jpg"
 价格：周一至周日午餐定食£48起，另外也有自选菜单和主厨精选菜单。
 
 地址：66 Knightsbridge, London SW1X 7LA
+
+![伦敦_米其林二星_Dinner_by_Heston_Blumenthal](images/Dinner_by_Heston_Blumenthal.jpg)

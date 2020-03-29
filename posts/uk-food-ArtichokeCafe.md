@@ -1,13 +1,17 @@
 ---
-title: "切斯特 Artichoke Cafe"
+title: "切斯特餐吧 Artichoke Cafe"
 author: "九姨"
 date: "2020-06-14"
 categories: "美食"
 tags: "英国,英格兰,切斯特,推荐"
-coverImage: "images/IMG_20170727_145906.jpg"
+coverImage: "images/IMG_20170727_142130.jpg"
 ---
 
->在雨后天青的切斯特小镇，有一间沿河的小餐馆。餐厅砖墙梁柱外露，棕色的皮沙发很有复古的感觉。
+>在雨后天青的切斯特小镇，有一间沿河的小餐馆。
+
+![Artichoke Cafe](images/IMG_20170727_145906.jpg)
+
+>餐厅砖墙梁柱外露，棕色的皮沙发很有复古的感觉。
 
 ![Artichoke Cafe](images/IMG_20170727_140233.jpg)
 
@@ -22,3 +26,5 @@ coverImage: "images/IMG_20170727_145906.jpg"
 网站：https://www.artichokechester.co.uk/
 
 地址：The Steam Mill, Steam Mill Street, Canal Quarter, Chester, CH3 5AN
+
+![Artichoke Cafe](images/artichokecafe.jpg)

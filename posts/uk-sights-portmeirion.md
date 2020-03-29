@@ -4,7 +4,7 @@ author: "九姨"
 date: "2020-09-06"
 categories: "攻略"
 tags: "英国,威尔士,雪窦尼亚,美丽恩港,必去"
-coverImage: "images/IMG_20170729_151618.jpg"
+coverImage: "images/IMG_20170729_162757.jpg"
 ---
 
 >是日重头戏当属位于北威尔士Merioneth港口的“意大利”小镇，美丽恩港，依山傍水，格外逍遥。
@@ -15,6 +15,12 @@ coverImage: "images/IMG_20170729_151618.jpg"
 
 ![Portmeirion](images/IMG_20170729_162757.jpg)
 
+>从山顶俯瞰小镇，依山傍水，格外逍遥。
+
+![Portmeirion](images/IMG_20170729_151618.jpg)
+
 网站：https://portmeirion.wales/
 
 地址：Minffordd, Penrhyndeudraeth, Gwynedd, LL48 6ER
+
+![Portmeirion](images/portmeirion.jpg)
