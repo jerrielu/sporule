@@ -125,8 +125,20 @@ module.exports = {
     }),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
+      inject: false,
       template: 'template/index.html',
-      templateParameters: Config
+      templateParameters: (compilation, assets, assetTags, options)=>{
+        return{
+          compilation,
+          webpackConfig: compilation.options,
+          htmlWebpackPlugin: {
+            tags: assetTags,
+            files: assets,
+            options
+          },
+          Config
+        }
+      }
     }),
     new webpack.optimize.OccurrenceOrderPlugin(),
     new OfflinePlugin({

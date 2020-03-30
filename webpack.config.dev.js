@@ -92,8 +92,20 @@ module.exports = {
     ),
     new webpack.HotModuleReplacementPlugin(),
     new HtmlWebpackPlugin({
+      inject: false,
       template: 'template/index.html',
-      templateParameters: Config
+      templateParameters: (compilation, assets, assetTags, options)=>{
+        return{
+          compilation,
+          webpackConfig: compilation.options,
+          htmlWebpackPlugin: {
+            tags: assetTags,
+            files: assets,
+            options
+          },
+          Config
+        }
+      }
     }),
     new MiniCssExtractPlugin({
       // Options similar to the same options in webpackOptions.output

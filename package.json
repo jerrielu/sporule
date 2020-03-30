@@ -54,6 +54,7 @@
     "html-webpack-plugin": "^3.2.0",
     "jest": "^24.9.0",
     "jest-fetch-mock": "^2.1.2",
+    "markdown-rss-generator-webpack-plugin": "^0.2.0",
     "mini-css-extract-plugin": "^0.8.0",
     "offline-plugin": "^5.0.7",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
@@ -64,10 +65,9 @@
     "string-replace-loader": "^2.2.0",
     "terser-webpack-plugin": "^1.4.1",
     "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1",
+    "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.1.14",
-    "webpack-pwa-manifest": "^4.1.1",
-    "markdown-rss-generator-webpack-plugin": "^0.2.0"
+    "webpack-pwa-manifest": "^4.1.1"
   },
   "repository": {
     "type": "git",
