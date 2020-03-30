@@ -1,5 +1,5 @@
 ---
-title: "Anglesey Dylan's"
+title: "威尔士家常菜 Anglesey Dylan's"
 author: "九姨"
 date: "2020-08-09"
 categories: "美食"
@@ -22,3 +22,5 @@ coverImage: "images/IMG_20170729_190404.jpg"
 网站：https://www.dylansrestaurant.co.uk/locations/menai-bridge
 
 地址：St. George's Road, Menai Bridge, Anglesey, LL59 5EY
+
+![Anglesey Dylan's](images/menaidylans.jpg)

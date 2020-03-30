@@ -1,10 +1,10 @@
 ---
-title: "Criccieth Dylan's"
+title: "威尔士家常菜 Criccieth Dylan's"
 author: "九姨"
 date: "2020-07-26"
 categories: "美食"
 tags: "英国,威尔士,雪窦尼亚,必去"
-coverImage: "images/IMG_20170729_131242.jpg"
+coverImage: "images/IMG_20170729_132328.jpg"
 ---
 
 >Criccieth海滩上以渔船、渔网为坛展现的乡野小花，可爱自然得不得了！
@@ -14,6 +14,10 @@ coverImage: "images/IMG_20170729_131242.jpg"
 >从沙滩西望，是俯瞰大西洋的Criccieth城堡。如此海景相伴的午餐好幸福！
 
 ![Criccieth Dylan's](images/IMG_20170729_124833.jpg)
+
+>如此海景相伴的午餐好幸福！
+
+![Criccieth Dylan's](images/IMG_20170729_131242.jpg)
 
 >餐厅还提供小镇的游览地图，贴心又实用。
 
@@ -38,3 +42,5 @@ coverImage: "images/IMG_20170729_131242.jpg"
 网站：https://www.dylansrestaurant.co.uk/locations/criccieth
 
 地址：Maes y Mor, Criccieth, Gwynedd, LL52 0HU
+
+![Criccieth Dylan's](images/cricciethdylans.jpg)

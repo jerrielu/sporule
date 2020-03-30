@@ -1,13 +1,17 @@
 ---
-title: "康维 Signatures Restaurant"
+title: "米其林推荐的康维餐厅 Signatures Restaurant"
 author: "九姨"
 date: "2020-06-28"
 categories: "美食"
 tags: "英国,威尔士,康维,必去"
-coverImage: "images/IMG_20170901_114950.jpg"
+coverImage: "images/IMG_20170727_192150.jpg"
 ---
 
->康威海滩上有个房车度假村，在密密麻麻白房子和蔚蓝大海的印衬下，有种身处佛罗里达的错觉。这个度假村里面还隐藏着一间超棒的米其林推荐餐厅，蝉联四届猫途鹰Tripadvisor网站卓越奖。餐前面包就很特别。
+>康威海滩上有个房车度假村，在密密麻麻白房子和蔚蓝大海的印衬下，有种身处佛罗里达的错觉。
+
+![Signatures Restaurant](images/IMG_20170901_114950.jpg)
+
+>这个度假村里面还隐藏着一间超棒的米其林推荐餐厅，蝉联四届猫途鹰Tripadvisor网站卓越奖。餐前面包就很特别。
 
 ![Signatures Restaurant](images/IMG_20170727_190020.jpg)
 
@@ -34,3 +38,5 @@ coverImage: "images/IMG_20170901_114950.jpg"
 网站：https://www.darwinescapes.co.uk/
 
 地址：Aberconwy Resort & Spa, Aberconwy Park, Conwy, North Wales, LL32 8GA
+
+![Signatures Restaurant](images/signatures.jpg)

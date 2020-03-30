@@ -3,11 +3,15 @@ title: "伦敦私藏 Bingham Restaurant"
 author: "九姨"
 date: "2020-05-31"
 categories: "美食"
-tags: "英国,英格兰,伦敦,推荐"
-coverImage: "images/20180825_115330.jpg"
+tags: "英国,英格兰,伦敦,精选"
+coverImage: "images/20180825_122041-e1537891978733.jpg"
 ---
 
->沿着里士满公园附近的一条静谧小道步行不远，就能到达连续四年获得猫途鹰Tripadvisor网站卓越奖的Bingham餐厅。窗外杨柳青青，泰晤士河流水潺潺，没有想到在这个地段还有这样恬静的餐馆。
+>沿着里士满公园附近的一条静谧小道步行不远，就能到达连续四年获得猫途鹰Tripadvisor网站卓越奖的Bingham餐厅。
+
+![Bingham Restaurant](images/20180825_115330.jpg)
+
+>窗外杨柳青青，泰晤士河流水潺潺，没有想到在这个地段还有这样恬静的餐馆。
 
 ![Bingham Restaurant](images/20180825_121528-e1537891934722.jpg)
 
@@ -34,3 +38,5 @@ coverImage: "images/20180825_115330.jpg"
 网站：https://www.binghamriverhouse.com/
 
 地址：61 - 63 Petersham Road, Richmond Upon Thames, Surrey, TW10 6UT
+
+![Bingham Restaurant](images/bingham.jpg)
