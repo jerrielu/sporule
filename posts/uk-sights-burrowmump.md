@@ -1,34 +1,25 @@
 ---
-title: "雪窦尼亚国家公园 Snowdonia National Park"
+title: "巴罗山 Burrow Mump"
 author: "九姨"
-date: "2020-06-07"
+date: "2020-11-08"
 categories: "攻略"
-tags: "英国,威尔士,雪窦尼亚,必去"
-coverImage: "images/IMG_20170728_104507.jpg"
+tags: "英国,英格兰,推荐"
+coverImage: "images/IMG_20170827_170512.jpg"
 ---
 
->雪窦尼亚是威尔士最大的国家公园，占地823平方英里，地形地貌多样，不仅有英格兰和威尔士境内最高的山峰，还有威尔士最大的天然湖泊，是健行爱好者的乐园。国家公园内的矿工路线属中等难度，全场12公里，海拔761米，预计须时4-5小时。
+>巴罗山位于英格兰苏陌塞(Somerset)乡村的中心地区，并不巍峨险峻，却很恬静宜人。
 
-![Snowdonia](images/IMG_20170728_103654.jpg)
+![Burrow Mump](images/IMG_20170827_175817.jpg)
 
->不同于刚出发时的蓝天白云，才走了不多久天就阴了下来。长着犄角的小羊泰然自若地站在蜿蜒的山路边，看着我们这些外来人。
+>山坡上绵羊成群，安静地用着餐。
 
-![Snowdonia](images/IMG_20170728_104457.jpg)
+![Burrow Mump](images/IMG_20170827_175824.jpg)
 
->再往前走，又见到一头刚剪了羊毛的大羊带着小羊在路边吃草。
+>山顶上有一座教堂遗骸，如今被用于纪念在第二次世界大战中丧生的人们，在蓝天的映衬下有种悲凉的美感。
 
-![Snowdonia](images/IMG_20170728_104507.jpg)
+![Burrow Mump](images/IMG_20170827_170512.jpg)
 
->风起云聚皱碧池。
 
-![Snowdonia](images/IMG_20170728_110437-e1522101562921.jpg)
+地址：Burrow Bridge, Taunton TA7 0RB
 
->山谷里湖水旁出现了一些废墟。不禁想象过去的人住在这样的环境里该是过着神仙似的生活吧！只是此时大雨倾盆。尽管我还想再往前探索发现一番，但迫于天气终究未能如愿。
-
-![Snowdonia](images/IMG_20170728_114231.jpg)
-
-网站：https://www.snowdonia.gov.wales/
-
-地址：Penrhyndeudraeth, Gwynedd, LL48 6LF
-
-![Snowdonia](images/snowdonia.jpg)
+![Burrow Mump](images/burrowmump.jpg)
