@@ -15,7 +15,7 @@ coverImage: "images/12310865.jpg"
 
 ### 签证信息
 
-我是自己在伦敦美国大使馆办理的美国旅游签证（十年多次）。在这里跟大家分享一下经验。 首先，以下是两个办美签的重要网站。 
+我是自己在伦敦美国大使馆办理的十年多次旅游签证。在这里跟大家分享一下经验。 首先，以下是两个办美签的重要网站。 
 ```
 签证信息及表格：http://london.usembassy.gov/niv/ 
 预约面签：https://ais.usvisa-info.com/en-gb/niv/information/niv
