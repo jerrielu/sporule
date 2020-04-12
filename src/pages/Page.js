@@ -58,6 +58,15 @@ class Page extends React.Component {
                 "invalidPage": false
             }
         };
+    }
+
+
+    toPage = (page) => {
+        window.location.href = window.location.pathname + "?page=" + page;
+    }
+
+    render() {
+        // get parameters
         const categoriesString = this.props.match.params.categories;
         const tagsString = queryString.parse(this.props.location.search).tags;
         const excludedTagsString = queryString.parse(this.props.location.search).extags;
@@ -67,15 +76,6 @@ class Page extends React.Component {
         this.excludedTags = excludedTagsString ? excludedTagsString.split(",") : [];
         this.searchString = queryString.parse(this.props.location.search).search || "";
 
-
-    }
-
-
-    toPage = (page) => {
-        window.location.href = window.location.pathname + "?page=" + page;
-    }
-
-    render() {
         let pageName = this.props.match.params.page || "home";
         let Page = CustomPages[pageName.toLowerCase()];
         if (!Page) {
@@ -85,9 +85,11 @@ class Page extends React.Component {
             const pinnedPosts = PostHelper.getPinnedPosts(this.props.posts);
             const posts = PostHelper.getPostsByPage(this.props.posts, this.page, true, this.searchString, this.categories, this.tags, this.excludedTags);
             if ((posts.length <= 0 && this.props.posts.length > 0) || posts.invalidPage) {
-                //reset filters if there is no posts
-                window.location.href = "/";
-                return null;
+                if (!window.location.origin.includes('webcache')) {
+                    //reset filters if there is no posts
+                    window.location.href = window.location.origin;
+                    return null;
+                }
             }
             var prev;
             var next;

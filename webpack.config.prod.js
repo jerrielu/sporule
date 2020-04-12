@@ -104,7 +104,7 @@ module.exports = {
       language: "cn",
       image: "https://i.imgur.com/vfh3Une.png",
       favicon: "https://i.imgur.com/vfh3Une.png",
-      copyright: "All rights reserved 2019, Eatsomemore",
+      copyright: "All rights reserved 2020, Eatsomemore",
       updated: new Date(), //updated date
       generator: "Sporule",
       author: {
@@ -146,7 +146,7 @@ module.exports = {
         events: true
       },
       responseStrategy: 'cache-first',
-      excludes: ['**/.*', '**/*.map', '**/*.gz', '**/*.xml', '**/*.txt', '**/sw.js', '**/*.md', '**/_redirects', '**/*.jpg', '**/*.png', '**/*.gif'],
+      excludes: ['**/.*', '**/*.map', '**/*.gz', '**/*.xml', '**/*.txt'],
       autoUpdate: 1000 * 60 * 60 * 10,
       externals: [
         'https://cdn.jsdelivr.net/npm/pwacompat@2.0.7/pwacompat.min.js',
