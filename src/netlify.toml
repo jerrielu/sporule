@@ -1,6 +1,11 @@
 [[redirects]]
+  from = "/?tags=:tag"
+  to = "/posts/?tags=:tag"
+  status = 301
+
+[[redirects]]
   from = "/tag/:tag"
-  to = "/?tags=:tag"
+  to = "/posts/?tags=:tag"
   status = 301
 
 [[redirects]]
