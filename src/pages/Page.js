@@ -9,6 +9,7 @@ import Config from "../../_config";
 import CustomPages from "../../template/customPages";
 import { CircleArrow as ScrollUpButton } from "react-scroll-up-button";
 import { withRouter } from 'react-router'
+import * as Utility from "../helpers/utility";
 
 class Page extends React.Component {
     constructor(props, context) {
@@ -79,6 +80,7 @@ class Page extends React.Component {
     }
 
     render() {
+        Utility.scrollToTop();
         // get parameters
         const categoriesString = this.props.match.params.categories;
         const tagsString = queryString.parse(this.props.location.search).tags;
@@ -97,16 +99,6 @@ class Page extends React.Component {
         else {
             const pinnedPosts = PostHelper.getPinnedPosts(this.props.posts);
             const posts = PostHelper.getPostsByPage(this.props.posts, this.page, true, this.searchString, this.categories, this.tags, this.excludedTags);
-            setTimeout(() => {
-                //give some time for the post to load
-                if ((posts.items.length <= 0 && this.props.posts.items.length > 0) || posts.invalidPage) {
-                    if (!window.location.origin.includes('webcache')) {
-                        //reset filters if there is no posts
-                        window.location.href = Config.url;
-                        return null;
-                    }
-                }
-            }, 5000)
             var prev;
             var next;
             if (posts.hasPrevPage) {
