@@ -7,7 +7,6 @@ import * as PostHelper from "../helpers/postHelper";
 import { Helmet } from "react-helmet";
 import Config from "../../_config";
 import CustomPages from "../../template/customPages";
-import { CircleArrow as ScrollUpButton } from "react-scroll-up-button";
 import { withRouter } from 'react-router'
 import * as Utility from "../helpers/utility";
 
@@ -79,8 +78,11 @@ class Page extends React.Component {
         }
     }
 
-    render() {
+    componentDidUpdate() {
         Utility.scrollToTop();
+    }
+
+    render() {
         // get parameters
         const categoriesString = this.props.match.params.categories;
         const tagsString = queryString.parse(this.props.location.search).tags;
@@ -116,7 +118,6 @@ class Page extends React.Component {
                     <Helmet>
                         <title>{Config.site} - {Page.title}</title>
                     </Helmet>
-                    <div><ScrollUpButton /></div>
                     <Page.component posts={posts} categories={this.categories} tags={this.tags} exTags={this.excludedTags} prev={prev} next={next} pinned={pinnedPosts} searchAction={this.searchAction}/>
                 </React.Fragment>
             )
