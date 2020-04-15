@@ -27,7 +27,6 @@ coverImage: "images/IMG_20110108_234450.jpg"
 
 ![高地](images/IMG_20110108_234657.jpg)
 
-
 > 在许多英姿飒爽的滑雪身影当中穿梭着几个像模像样的穿着湖蓝色连体滑雪衫的小孩，真是可爱，也显得雪山格外可亲可近。
 
 ![高地](images/IMG_20110108_234645.jpg)
@@ -47,3 +46,9 @@ coverImage: "images/IMG_20110108_234450.jpg"
 > 现在想想还真怀念在那荒村野店的两天一夜。那里有灰蓝色的湖水，有苍茫的雪山，有蓝天，有阳光，还有长着角的美丽赤鹿。
 
 ![高地](images/IMG_20110108_234450.jpg)
+
+[点击就看苏格兰吃什么](/posts/categories/%E7%BE%8E%E9%A3%9F?pagetype=uk-food&tags=英国,苏格兰&extags=)
+
+[点击就看苏格兰玩什么](/posts/categories/攻略?pagetype=uk-play&tags=英国,苏格兰&extags=)
+
+[点击就看全部上述内容](/posts?tags=苏格兰)

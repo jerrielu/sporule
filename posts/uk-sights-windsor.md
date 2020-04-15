@@ -47,7 +47,7 @@ coverImage: "images/IMG_20101126_194842.jpg"
 
 ![温莎](images/20180825_172432.jpg)
 
-网站：https://www.windsor.gov.uk/
+网站：[https://www.windsor.gov.uk/](https://www.windsor.gov.uk/)
 
 地址：Windsor, Berkshire, SL4 1NJ
 
