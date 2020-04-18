@@ -19,7 +19,7 @@ coverImage: "images/IMG_20101214_160321.jpg"
 
 ![The Wolseley](images/IMG_20101214_164013.jpg)
 
-网站：https://www.thewolseley.com/
+网站：[https://www.thewolseley.com/](https://www.thewolseley.com/)
 
 地址：160 Piccadilly, London, W1J 9EB
 

@@ -15,7 +15,7 @@ coverImage: "images/IMG_20170728_191742.jpg"
 
 ![朗科恩假日酒店](images/IMG_20170728_191742.jpg)
 
-网站：https://www.ihg.com/holidayinn/hotels/gb/en/runcorn/wrtrn/hoteldetail
+网站：[https://www.ihg.com/holidayinn/hotels/gb/en/runcorn/wrtrn/hoteldetail](https://www.ihg.com/holidayinn/hotels/gb/en/runcorn/wrtrn/hoteldetail)
 
 地址：Wood Lane, Beechwood, Cheshire, Runcorn, WA7 3HA
 
