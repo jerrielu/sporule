@@ -4,7 +4,7 @@ author: "九姨"
 date: "2020-04-19"
 categories: "美食"
 tags: "英国,英格兰,米其林,精选,英国菜,伦敦"
-coverImage: "IMG_20200112_125745.jpg"
+coverImage: "images/IMG_20200112_125745.jpg"
 ---
 
 >蝉联猫途鹰Tripadvisor网站卓越奖四年、米其林二星的英国菜餐厅Dinner by Heston Blumenthal，与海德公园仅一窗之隔。
