@@ -1,5 +1,5 @@
 ---
-title: "Pheasant Keyston"
+title: "地道超值餐馆 Pheasant Keyston"
 author: "九姨"
 date: "null"
 categories: "美食"
@@ -7,11 +7,11 @@ tags: "英国,英格兰,推荐"
 coverImage: "images/IMG_20170304_141800.jpg"
 ---
 
->米其林餐馆评审员在世界各地穿梭于高级餐馆寻味的同时，也在寻找地道的超值餐馆，所以指南中开辟了这个类别。1955年起，米其林指南通过必比登美食推介类别，推荐许多价格大众化、但呈现高品质美食的餐馆。
+>米其林在给各国高级餐厅评星的同时，也致力于寻找地道的超值美食，并且在其指南当中设立了必比登美食推介类别来推荐这类餐馆。蝉联四届猫途鹰Tripadvisor卓越奖的乡村餐馆 Pheasant Keyston 就是其中之一。
 
 ![Pheasant Keyston](images/IMG_20170304_143553.jpg)
 
->
+>餐馆的陈设和餐具都非常用心。
 
 ![Pheasant Keyston](images/IMG_20170304_141432.jpg)
 
@@ -19,15 +19,15 @@ coverImage: "images/IMG_20170304_141800.jpg"
 
 ![Pheasant Keyston](images/IMG_20170304_141800.jpg)
 
->Ham hock terrine with piccalilli and granary toast
+>肉食爱好者则可以选择法式咸肉酱糜搭配腌菜和粗粮土司。 
 
 ![Pheasant Keyston](images/IMG_20170304_141820.jpg)
 
->Pork chasseur with potato rosti and braised red cabbage
+>法式猎人酱炖猪肉和瑞士薯饼，猎人酱里使用了蘑菇、紫甘蓝和香料，味道层次丰富。
 
 ![Pheasant Keyston](images/IMG_20170304_143837.jpg)
 
->roast carrots
+>烤胡萝卜是炖猪肉的配菜，营养均衡。
 
 ![Pheasant Keyston](images/IMG_20170304_143841.jpg)
 
