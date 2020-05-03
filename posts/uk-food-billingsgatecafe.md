@@ -4,7 +4,7 @@ author: "九姨"
 date: "2020-05-03"
 categories: "美食"
 tags: "英国,英格兰,推荐,海鲜,伦敦"
-coverImage: "billingsgate_cafe_2.jpg"
+coverImage: "images/billingsgate_cafe_2.jpg"
 ---
 
 >比邻阁（Billingsgate）市场是英国最大的海鲜市场。周二至周六每个早上天还没亮的时候就有源源不断的海鲜从海港和海外运来。
