@@ -1,7 +1,7 @@
 ---
 title: "伦敦米其林二星餐厅 Claude Bosi at Bibendum"
 author: "九姨"
-date: "2020-05-17"
+date: "2021-01-03"
 categories: "美食"
 tags: "英国,英格兰,推荐,米其林,伦敦"
 coverImage: "images/20181228_134617.jpg"
