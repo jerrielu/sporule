@@ -9,15 +9,15 @@ coverImage: "images/20190814_172946.jpg"
 
 >Bone Daddies是伦敦的连锁日式拉面店。煲了二十小时的猪骨汤呈现出诱人的奶白色。叉烧肉、溏心蛋、笋丝和葱花各就各位。
 
-![Claude Bosi](images/20190814_172946.jpg)
+![Bone Daddies](images/20190814_172946.jpg)
 
 >撒上芝麻碎，给软硬适中的面条增加香味，是慰藉心灵的拉面没错啦。
 
-![Claude Bosi](images/20190814_173005.jpg)
+![Bone Daddies](images/20190814_173005.jpg)
 
 
 网站：[https://www.bonedaddies.com/](https://www.bonedaddies.com/)
 
 地址：Nova Development, 9 Sir Milton Square, London SW1 5DJ
 
-![Claude Bosi](images/bonedaddies.jpg)
+![Bone Daddies](images/bonedaddies.jpg)
