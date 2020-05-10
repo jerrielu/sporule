@@ -3,7 +3,7 @@ title: "康沃郡米其林一星餐馆 Paul Ainsworth at No 6"
 author: "九姨"
 date: "2021-04-04"
 categories: "美食"
-tags: "英国,康沃郡,米其林,精选"
+tags: "英国,英格兰,康沃郡,米其林,精选"
 coverImage: "images/IMG_20170829_140056.jpg"
 ---
 
