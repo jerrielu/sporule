@@ -4,6 +4,7 @@ author: "九姨"
 date: "2020-11-29"
 categories: "游记"
 tags: "希腊,雅典,圣托里尼"
+coverImage: "images/201504_Greece_3.jpg"
 ---
 
 ## 缘起
