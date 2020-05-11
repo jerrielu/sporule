@@ -1,7 +1,7 @@
 ---
 title: "春日悠游西班牙之巴塞罗纳 2/2"
 author: "九姨"
-date: "null"
+date: "2021-07-04"
 categories: "游记"
 tags: "西班牙,巴塞罗那"
 coverImage: "images/IMG_20160326_183237.jpg"
@@ -9,7 +9,7 @@ coverImage: "images/IMG_20160326_183237.jpg"
 
 ## 行程总览
 
-
+![巴塞罗那](images/barcelona.jpg)
 
 >在巴塞罗那的第二天，是与高迪的约会日。
 

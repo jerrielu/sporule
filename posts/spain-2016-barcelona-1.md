@@ -1,7 +1,7 @@
 ---
 title: "春日悠游西班牙之巴塞罗那 1/2"
 author: "九姨"
-date: "null"
+date: "2021-06-20"
 categories: "游记"
 tags: "西班牙,巴塞罗那"
 coverImage: "images/IMG_20160326_112738.jpg"
@@ -11,7 +11,7 @@ coverImage: "images/IMG_20160326_112738.jpg"
 
 ## 行程总览
 
-![巴塞罗那](images/)
+![巴塞罗那](images/barcelona.jpg)
 
 >巴塞罗那的第一天安排了兰布拉大道附近和加泰罗尼亚国家艺术博物馆。
 
@@ -164,6 +164,8 @@ coverImage: "images/IMG_20160326_112738.jpg"
 >这里可以俯瞰巴塞罗那。
 
 ![加泰罗尼亚国家艺术博物馆](images/IMG_20160326_152201.jpg)
+
+### 希尔顿巴塞罗那
 
 >傍晚到达希尔顿巴塞罗那。窗外的景色很美。
 
