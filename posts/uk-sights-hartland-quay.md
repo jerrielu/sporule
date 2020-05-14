@@ -4,7 +4,7 @@ author: "九姨"
 date: "2021-05-16"
 categories: "攻略"
 tags: "英国,英格兰,德文郡,精选"
-coverImage: "images/IMG_20170828_145652.jpg"
+coverImage: "images/IMG_20170828_151845.jpg"
 ---
 
 >万万没有想到健行的第一步是要穿过一个牛圏……
