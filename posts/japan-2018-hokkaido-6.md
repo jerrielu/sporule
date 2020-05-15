@@ -1,7 +1,7 @@
 ---
 title: "弘前青森北海道，温泉海鲜幸福感 6/6【小樽】"
 author: "九姨"
-date: "2022-01-30"
+date: "2022-02-06"
 categories: "游记"
 tags: "日本,小樽,樱花,温泉"
 coverImage: "images/5920180509_125308.jpg"

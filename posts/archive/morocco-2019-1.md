@@ -1,7 +1,7 @@
 ---
 title: "摩洛哥环游记 1/5【卡萨布兰卡】"
 author: "九姨"
-date: "null"
+date: "2022-03-13"
 categories: "摩洛哥"
 tags: "卡萨布兰卡,哈桑二世清真寺,塔吉锅,摩洛哥"
 coverImage: "images/P1050130.jpg"
