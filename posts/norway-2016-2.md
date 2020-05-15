@@ -1,7 +1,7 @@
 ---
 title: "【挪威】北欧之南布道岩 2/2"
 author: "九姨"
-date: "2021-12-05"
+date: "2021-11-07"
 categories: "游记"
 tags: "挪威,吕瑟峡湾,布道岩"
 coverImage: "images/05293010.jpg"
