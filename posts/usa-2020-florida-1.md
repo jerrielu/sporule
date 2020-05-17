@@ -120,4 +120,3 @@ coverImage: "images/IMG_20200126_172639.jpg"
 >
 
 ![Juno Beach Fish House](images/IMG_20200126_184038.jpg)
-
