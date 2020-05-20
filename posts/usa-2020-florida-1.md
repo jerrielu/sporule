@@ -1,5 +1,5 @@
 ---
-title: "迈阿密及其周边阳光生态之旅 1/5"
+title: "迈阿密及其周边的阳光生态之旅 1/5"
 author: "九姨"
 date: "2021-11-21"
 categories: "游记"
@@ -45,19 +45,19 @@ coverImage: "images/IMG_20200126_172639.jpg"
 
 ![Burt & Max’s](images/IMG_20200126_162055.jpg)
 
->
+>煎蛋牛油果土司上铺满了墨西哥玉米粒、科蒂哈干酪、芝麻菜和番茄粒。
 
 ![Burt & Max’s](images/IMG_20200126_162939.jpg)
 
->牛油果土司
+>烤肉塔可饼包裹着墨西哥辣椒、单面煎鸡蛋、杰克干酪和莎莎酱。
 
 ![Burt & Max’s](images/IMG_20200126_162950.jpg)
 
->美式早餐
+>美式早餐包括香煎培根、连体煎蛋、自制薯条和烤吐司。
 
 ![Burt & Max’s](images/IMG_20200126_162956.jpg)
 
->烟熏三文鱼贝果
+>烟熏三文鱼贝果搭配芝士、番茄、洋葱、芝麻菜和小腌豆子。
 
 ![Burt & Max’s](images/IMG_20200126_163001.jpg)
 
@@ -105,18 +105,18 @@ coverImage: "images/IMG_20200126_172639.jpg"
 
 ![北棕榈滩海景智选假日](images/IMG_20200126_204807.jpg)
 
->稍事休息后从酒店出发步行大约五分钟就到达了 Juno Beach Fish House 吃晚餐。三文鱼沙拉
+>稍事休息后从酒店出发步行大约五分钟就到达了 Juno Beach Fish House 吃晚餐。tuna poke salad
 
 ![Juno Beach Fish House](images/IMG_20200126_184026.jpg)
 
->油炸渔获
+>油炸渔获 captains platter
 
 ![Juno Beach Fish House](images/IMG_20200126_184031.jpg)
 
->马赛鱼汤
+>马赛鱼汤 bouillabaisse
 
 ![Juno Beach Fish House](images/IMG_20200126_184035.jpg)
 
->海鲜意面
+>海鲜意面 fish house pasta
 
 ![Juno Beach Fish House](images/IMG_20200126_184038.jpg)

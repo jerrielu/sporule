@@ -31,23 +31,23 @@ coverImage: "images/IMG_20200128_102907.jpg"
 
 ![Cod & Capers Seafood](images/IMG_20200128_115658.jpg)
 
->
+>med stone crab appetizer
 
 ![Cod & Capers Seafood](images/IMG_20200128_123749.jpg)
 
->
+>seafood pomodoro dinner
 
 ![Cod & Capers Seafood](images/IMG_20200128_115703.jpg)
 
->
+>C&C shrimp and pasta
 
 ![Cod & Capers Seafood](images/IMG_20200128_115707.jpg)
 
->
+>grouper picatta
 
 ![Cod & Capers Seafood](images/IMG_20200128_115710.jpg)
 
->
+>hogfish meuniere
 
 ![Cod & Capers Seafood](images/IMG_20200128_123746.jpg)
 
@@ -67,12 +67,12 @@ coverImage: "images/IMG_20200128_102907.jpg"
 
 ![Cool’a Fish Bar](images/IMG_20200128_181913.jpg)
 
->
+>Mac snapper
 
 ![Cool’a Fish Bar](images/IMG_20200128_181918.jpg)
 
->
+>caribbean bowl
 
 ![Cool’a Fish Bar](images/IMG_20200128_181922.jpg)
 
->
+>maple salmon
