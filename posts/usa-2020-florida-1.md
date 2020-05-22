@@ -57,7 +57,7 @@ coverImage: "images/IMG_20200126_172639.jpg"
 
 ![Burt & Max’s](images/IMG_20200126_162956.jpg)
 
->烟熏三文鱼贝果搭配芝士、番茄、洋葱、芝麻菜和小腌豆子。
+>烟熏三文鱼贝果搭配芝士、番茄、洋葱、芝麻菜和续随子。
 
 ![Burt & Max’s](images/IMG_20200126_163001.jpg)
 

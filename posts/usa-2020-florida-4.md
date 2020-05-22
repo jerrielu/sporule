@@ -1,9 +1,9 @@
 ---
-title: "迈阿密 4/5"
+title: "迈阿密及其周边的阳光生态之旅 4/5"
 author: "九姨"
-date: ""
+date: "2021-12-12"
 categories: "游记"
-tags: "美国,佛罗里达,迈阿密,海滩"
+tags: "美国,佛罗里达,西棕榈滩"
 coverImage: "images/IMG_20200129_150935.jpg"
 ---
 
@@ -13,61 +13,65 @@ coverImage: "images/IMG_20200129_150935.jpg"
 
 ![迈阿密](images/miami.jpg)
 
-## 迈阿密
+## 西棕榈滩
 
->
+>西棕榈滩繁华的沃斯大道上有一间曾接待过约翰肯尼迪、温莎公爵和夫人等名人的餐厅 Ta-boo。更有传说说这间餐厅的调酒师在第二次世界大战期间，应当时红人芭芭拉伍尔沃斯赫顿的要求，创制了迷人血玛丽鸡尾酒。
 
 ![Ta-boo](images/IMG_20200129_132431.jpg)
 
->
+>餐厅的内部装修非常漂亮。
 
 ![Ta-boo](images/IMG_20200129_132443.jpg)
 
->pan roasted chilean sea bass 5oz with champagne-lobster sause, asparagus and jasmine rice
+>香煎智利海鲈鱼上盖着一层浓浓的香槟龙虾酱，搭配芦笋、番茄和茉莉香米。
 
 ![Ta-boo](images/IMG_20200129_134337.jpg)
 
->worth avenue salad: shrimp, lump crab, avocado, capers, egg, bacon, tomatoes, bibb lettuce and dijon vinaigrette
+>沃斯大道沙拉看似平平无奇，其实深藏不露，生菜叶和白煮蛋下埋着满满的虾仁、蟹肉和培根，以酸甜口味的法式油醋汁调味。
 
 ![Ta-boo](images/IMG_20200129_134340.jpg)
 
->penne with mushrooms and smoked bacon in parmesan cream
+>烟熏培根和蘑菇恰如其分地融入在芝士奶油通心粉当中。
 
 ![Ta-boo](images/IMG_20200129_134343.jpg)
 
->soup sandwich: beef barley soup and ham and swiss cheese sandwhich on eight gran toast
+>牛肉大麦汤和厚度惊人的火腿芝士谷物三明治是一个组合。
 
 ![Ta-boo](images/IMG_20200129_134347.jpg)
 
->
-
-![四艺协会](images/IMG_20200129_151259.jpg)
-
->
+>从餐厅离开步行大约十五分钟后到达四艺协会。
 
 ![四艺协会](images/IMG_20200129_151219.jpg)
 
->
+>猝不及防的“诗兴大发”。
+```
+棕榈镇上棕榈路，棕榈路边棕榈树。
+棕榈树上棕榈果，棕榈树下你和我。
+```
 
-![四艺协会](images/IMG_20200129_150935.jpg)
+![四艺协会](images/IMG_20200129_151259.jpg)
 
->
-
-![四艺协会](images/IMG_20200129_144145.jpg)
-
->
-
-![四艺协会](images/IMG_20200129_143945.jpg)
-
->
-
-![四艺协会](images/IMG_20200129_143800.jpg)
-
->
+>皇家棕榈路的尽头有一座可以打开的桥。
 
 ![四艺协会](images/IMG_20200129.jpg)
 
->HH wings
+>严谨对称的建筑和恣意张扬的棕榈树在同一片蓝天下。
+
+![四艺协会](images/IMG_20200129_150935.jpg)
+
+>园区内还有一座有着翠瓦红门的中式花园。
+
+![四艺协会](images/IMG_20200129_144145.jpg)
+
+>僻静的花园里有一座幽幽的迷你喷泉。
+
+![四艺协会](images/IMG_20200129_143800.jpg)
+
+>中式建筑和热带植物的混搭毫无违和感。
+
+![四艺协会](images/IMG_20200129_143945.jpg)
+
+>晚餐回到了酒店附近的 Thirsty Turtle Seagrill。酸甜微辣的烤鸡翅永远也不会出错。
 
 ![Thirsty Turtle Seagrill](images/IMG_20200129_191754.jpg)
 
