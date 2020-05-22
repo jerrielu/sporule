@@ -71,18 +71,18 @@ coverImage: "images/IMG_20200129_150935.jpg"
 
 ![四艺协会](images/IMG_20200129_143945.jpg)
 
->晚餐回到了酒店附近的 Thirsty Turtle Seagrill。酸甜微辣的烤鸡翅永远也不会出错。
+>晚餐时回到了酒店附近，Thirsty Turtle Seagrill 酸甜微辣的烤鸡翅永远也不会出错。
 
 ![Thirsty Turtle Seagrill](images/IMG_20200129_191754.jpg)
 
->clams
+>白煮蛤蜊甘鲜弹牙。
 
 ![Thirsty Turtle Seagrill](images/IMG_20200129_191758.jpg)
 
->coco shrimp
+>椰丝炸虾配果酱，香脆鲜甜。
 
 ![Thirsty Turtle Seagrill](images/IMG_20200129_191805.jpg)
 
->sea scallops
+>糖醋大扇贝香甜鲜嫩，配菜红薯泥甘香绵密。吃美了再休息休息，只待来日继续玩。
 
 ![Thirsty Turtle Seagrill](images/IMG_20200129_191838.jpg)
