@@ -55,7 +55,7 @@ coverImage: "images/IMG_20200130_173843.jpg"
 
 ![CocoWalk](images/IMG_20200131_113044.jpg)
 
->当看到猛虎与蝴蝶的彩绘墙，我们就来到了猛虎拉美餐厅。
+>当看到猛虎与蝴蝶的彩绘墙，我们就来到了猫途鹰 Tripadvisor 网站卓越奖四连得主猛虎拉美餐厅。
 
 ![Jaguar Latin-American](images/IMG_20200131_113438.jpg)
 
