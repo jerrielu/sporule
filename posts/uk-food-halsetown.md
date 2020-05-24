@@ -36,6 +36,8 @@ coverImage: "images/IMG_20170830_121511.jpg"
 ![Halsetown Inn](images/IMG_20170830_132118.jpg)
 
 
+网站：[https://www.halsetowninn.co.uk/](https://www.halsetowninn.co.uk/)
+
 地址：Halsetown, Saint Ives TR26 3NA
 
 ![Halsetown Inn](images/halsetown.jpg)
