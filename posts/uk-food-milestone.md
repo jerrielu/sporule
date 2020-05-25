@@ -1,13 +1,13 @@
 ---
-title: "The Milestone"
+title: "谢菲尔德小餐馆 The Milestone"
 author: "九姨"
 date: "2022-06-26"
 categories: "美食"
-tags: "英国,英格兰,推荐"
+tags: "英国,英格兰,约克郡,谢菲尔德,推荐"
 coverImage: "images/IMG_20170416_143257.jpg"
 ---
 
->
+>鲜虾沙拉清新鲜甜。
 
 ![The Milestone](images/IMG_20170416_141503.jpg)
 
@@ -15,7 +15,7 @@ coverImage: "images/IMG_20170416_143257.jpg"
 
 ![The Milestone](images/IMG_20170416_143257.jpg)
 
->
+>巧克力蛋糕搭配新鲜奶油和草莓，甜甜蜜蜜。
 
 ![The Milestone](images/IMG_20170416_150521.jpg)
 

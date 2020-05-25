@@ -3,27 +3,27 @@ title: "白金汉郡米其林二星餐厅 The Hand and Flowers"
 author: "九姨"
 date: "2022-07-24"
 categories: "美食"
-tags: "英国,英格兰,白金汉郡,米其林,推荐"
+tags: "英国,英格兰,白金汉郡,米其林,精选"
 coverImage: "images/IMG_20170826_130220.jpg"
 ---
 
->Master of flavours.
+>白金汉郡的马洛镇上有一间米其林二星餐厅。
 
 ![The Hand and Flowers](images/IMG_20170826_140513.jpg)
 
->Bread is nice but butter is hard and cold. Fried whitebait is amazing!
+>开胃小点当中，油炸魩仔鱼鲜香得非常令人惊艳。
 
 ![The Hand and Flowers](images/IMG_20170826_125914.jpg)
 
->One of the best tomato soup I've had with a good mixture of flavours. 番茄汤，黑橄榄酥皮脆条，帕马森乳酪意大利馄饨，罗勒油
+>迫不及待地想向大家介绍我至今喝过最好喝的番茄汤，中间有一粒帕马森乳酪意大利馄饨，罗勒油更是给这道汤增添了与众不同的风味，碗上还架着一根黑橄榄酥皮脆条。总的来说，各个味道的融合非常的棒！
 
 ![The Hand and Flowers](images/IMG_20170826_130220.jpg)
 
->Lamb is delicious and aubergine has a hint of Chinese sweet and sour flavour. 油封羊肩，酸甜茄子，孜然酸奶
+>油封羊肩搭配孜然酸奶，非常美味。配菜酸甜茄子竟有些中式鱼香茄子的味道。
 
 ![The Hand and Flowers](images/IMG_20170826_132642.jpg)
 
->Desert is sweet and satisfying. 草莓萨瓦兰与咸杏仁冰激凌
+>草莓萨瓦兰蛋糕的口味就重一些，而最上面的咸杏仁冰激凌既特别又好吃。
 
 ![The Hand and Flowers](images/IMG_20170826_140835.jpg)
 
