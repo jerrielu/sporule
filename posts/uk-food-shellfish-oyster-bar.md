@@ -16,4 +16,4 @@ coverImage: "images/IMG_20170529_160223.jpg"
 
 地址：199 Kings Road Arches, The Fishing Quarter, Brighton BN1 1NB
 
-![Brighton Shellfish & Oyster Bar](images/.jpg)
+![Brighton Shellfish & Oyster Bar](images/shellfishoyster.jpg)
