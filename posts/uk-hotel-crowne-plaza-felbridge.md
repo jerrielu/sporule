@@ -1,23 +1,23 @@
 ---
-title: "Crowne Plaza Felbridge"
+title: "西塞克斯郡皇冠假日酒店 Crowne Plaza Felbridge"
 author: "九姨"
 date: "2022-10-09"
 categories: "预定"
-tags: "英国,英格兰,萨里郡,推荐"
+tags: "英国,英格兰,西塞克斯郡,推荐"
 coverImage: "images/IMG_20170528_203218.jpg"
 ---
 
->set in a tranquil location in East Grinstead, just off the A22 and within easy reach of the M25 and M23 motorways. Convenient for flights from nearby London Gatwick Airport, the hotel is 10 minutes' drive from East Grinstead station, with regular trains to London. offers free WiFi and parking. 
+>菲尔桥 (Felbridge) 皇冠假日酒店地处宁静的东格林斯特德区 (East Grinstead)，临近伦敦的主要机场之一盖威克 (Gatwick) 机场和风景优美的南部丘陵 (South Downs) 国家公园。酒店提供免费停车位。
+
+![Crowne Plaza Felbridge](images/P1010198.jpg)
+
+>房间格局紧凑，具有设计感。
 
 ![Crowne Plaza Felbridge](images/IMG_20170528_203218.jpg)
 
->Why not pamper yourself with a soothing treatment in the luxurious Chakra Spa and enjoy the sauna, steam room and Jacuzzi or take a dip in the indoor swimming pool? Afterwards, unwind with cocktails in the stylish Qube bar.
+>洗手间干净整洁，提供浴袍。除此之外，酒店还有室内游泳池、按摩浴缸、桑拿、汗蒸和 Spa，总有一款你会喜欢。
 
 ![Crowne Plaza Felbridge](images/IMG_20170528_203205.jpg)
-
->From the High Weald to the South Downs National Park, the scenery in this region is breathtaking. Step back in time at the stately Chartwell House or watch a jousting match at the beautifully preserved Hever Castle, 25 minutes away by car. Memorable family fun can be had at Tulleys Farm, just 15 minutes by car.
-
-![Crowne Plaza Felbridge](images/P1010198.jpg)
 
 
 网站：[https://www.ihg.com/crowneplaza/hotels/gb/en/west-sussex/bsheg/hoteldetail](https://www.ihg.com/crowneplaza/hotels/gb/en/west-sussex/bsheg/hoteldetail)
