@@ -130,63 +130,63 @@ by Fernando Pessoa
 
 ![葡萄牙](images/IMG_20170120_191233.jpg)
 
->
+>Diners are in for a pleasant surprise as the dishes on the menu have been created by José Avillez – Michelin-Starred chef at the Belcanto restaurant. 米其林指南推荐
 
 ![葡萄牙](images/IMG_20170120_191238.jpg)
 
->
+>卡琵莉亚是一种以卡沙夏为基酒调制而成的鸡尾酒，在巴西有着国民鸡尾酒的地位，巴西政府也曾为它立法订立法定酒谱。目前也是国际调酒师协会收录的正式鸡尾酒之一。一般而言卡琵莉亚的材料包含糖、莱姆还有卡沙夏。橄榄。
 
 ![葡萄牙](images/1000258.jpg)
 
->
-
-![葡萄牙](images/IMG_20170120_191757.jpg)
-
->
+>玛格丽塔。
 
 ![葡萄牙](images/IMG_20170120_191805.jpg)
 
->
+>金箔费列罗
+
+![葡萄牙](images/IMG_20170120_191757.jpg)
+
+>鸡肉
 
 ![葡萄牙](images/1000259.jpg)
 
->
+>虾
 
 ![葡萄牙](images/1000260.jpg)
 
->
+>吞拿鱼、扇贝
 
 ![葡萄牙](images/1000265.jpg)
 
->
+>鸡蛋松露
 
 ![葡萄牙](images/IMG_20170120_194514.jpg)
 
->
+>炖吞拿鱼
 
 ![葡萄牙](images/IMG_20170120_194520.jpg)
 
->
+>吞拿鱼
 
 ![葡萄牙](images/1000270.jpg)
 
->
+>扇贝
 
 ![葡萄牙](images/1000272.jpg)
 
->
+>汉堡
 
 ![葡萄牙](images/IMG_20170120_202129.jpg)
 
->
+>牛尾
 
 ![葡萄牙](images/1000274.jpg)
 
->
+>酸橙球，巧克力蛋筒
 
 ![葡萄牙](images/IMG_20170120_205119.jpg)
 
->
+>petit fours
 
 ![葡萄牙](images/1000277.jpg)
 

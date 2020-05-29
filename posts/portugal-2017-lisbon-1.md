@@ -15,11 +15,11 @@ coverImage: "images/IMG_20170119_173737.jpg"
 
 ## 里斯本
 
->
+>哲罗姆派修道院，地理大发现带来的财富的纪念碑。曼努埃尔哥特（Manueline）有时称为葡萄牙哥特式晚期的集大成者，是葡萄牙文艺复兴和大航海时代（Age of Discoveries）时期起源于16世纪的奢华综合葡萄牙建筑风格。曼努埃尔（Manueline）的建筑融合了海洋元素，并展示了Vasco da Gama和PedroÁlvaresCabral航行中所带来的发现。葡萄牙著名航海探险家达伽马从他历史性的旅程回来后，由“幸运儿”曼纽尔一世大约在1501年下令始建。许多建筑大师参与建造。
 
 ![葡萄牙](images/1000085.jpg)
 
->
+>圣玛利亚教堂。修长的八棱柱
 
 ![葡萄牙](images/1000087.jpg)
 
@@ -27,7 +27,7 @@ coverImage: "images/IMG_20170119_173737.jpg"
 
 ![葡萄牙](images/1000090.jpg)
 
->
+>达伽马和许多其他名人都长眠于此。
 
 ![葡萄牙](images/1000091.jpg)
 
@@ -47,11 +47,11 @@ coverImage: "images/IMG_20170119_173737.jpg"
 
 ![葡萄牙](images/1000116.jpg)
 
->
+>同样是曼纽尔一世下令建造的贝伦塔是一座五层的防御工事，第三层突出的窗台属于Governor's room。有锯齿状垛墙的城墙。
 
 ![葡萄牙](images/1000098.jpg)
 
->
+>是航海家们探寻贸易之路的起点，也因此成为了葡萄牙大扩张时代的标志。
 
 ![葡萄牙](images/1000119.jpg)
 
@@ -117,13 +117,3 @@ coverImage: "images/IMG_20170119_173737.jpg"
 >
 
 ![葡萄牙](images/IMG_20170119_140126.jpg)
-
-
-```
-"I am nothing.
-I'll never be anything.
-I couldn't want to be something.
-Apart from that, I have in me all the dreams in the world."
-by Fernando Pessoa
-```
-![](images/.jpg)
