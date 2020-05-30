@@ -14,6 +14,6 @@ tags: ""
 
 爱丁堡城堡
 
-爱丁堡城堡 和在高地认识的可爱的新朋友一起，我们坐night bus回到了格拉斯 哥。翌日，我在kelvingrove美术馆正巧遇上了organ演奏，真有气势。坐在cafe里的人也同坐在听众席上的人一起鼓掌，满头白发的演奏者在演出结束时也向我们鞠躬，大家都煞有其事兮兮，非常有趣。那里有一个展厅叫做every picture tells a story，帮助参观者更好地了解画作，我觉得那是很赞的主意，我很喜欢。
+爱丁堡城堡 和在高地认识的可爱的新朋友一起，我们坐night bus回到了格拉斯哥。翌日，我在kelvingrove美术馆正巧遇上了organ演奏，真有气势。坐在cafe里的人也同坐在听众席上的人一起鼓掌，满头白发的演奏者在演出结束时也向我们鞠躬，大家都煞有其事兮兮，非常有趣。那里有一个展厅叫做every picture tells a story，帮助参观者更好地了解画作，我觉得那是很赞的主意，我很喜欢。
 
 我从美术馆带回来一块画着thistle的玻璃。Thistle is the flower of Scotland. It tells the beauty of Scotland and the loveliness of the Scots!
