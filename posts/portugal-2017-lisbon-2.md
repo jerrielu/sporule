@@ -19,7 +19,7 @@ coverImage: "images/1000257.jpg"
 
 ![葡萄牙](images/IMG_20170120_093123.jpg)
 
->
+>The store is at a very good location, but not easy to find. You can take away or eat at the bar. You can see the tarts being made at the bar. The crust is of many thin and crispy layers. The custard is a little bit too sweet.
 
 ![葡萄牙](images/IMG_20170120_094235.jpg)
 
@@ -81,39 +81,39 @@ coverImage: "images/1000257.jpg"
 
 >1
 
-![葡萄牙](images/1000213.jpg)
+![da Prata 52](images/1000213.jpg)
 
->
+>A good choice for tapas - This is a restaurant where people can order several tapas to share. All tapas are delicately prepared. The foie gras is really delicious, tender and juicy. Octopus salad and roast vegetable are nice as well. However the deep fried sardine is a little bit disappointing - it is not crispy at all and has a bit fishy smell.
 
-![葡萄牙](images/1000217.jpg)
+![da Prata 52](images/1000217.jpg)
 
->
+>foie gras on toast with chives and nuts
 
-![葡萄牙](images/1000223.jpg)
+![da Prata 52](images/1000223.jpg)
 
->1
+>octopus salad
 
-![葡萄牙](images/1000227.jpg)
+![da Prata 52](images/1000227.jpg)
 
->
+>cod in ham on rice
 
-![葡萄牙](images/1000228.jpg)
+![da Prata 52](images/1000228.jpg)
 
->
+>deep fried sadines
 
-![](images/IMG_20170120_141149.jpg)
+![da Prata 52](images/IMG_20170120_141149.jpg)
 
->
+>roast vegetable with hazlenut sauce
 
-![葡萄牙](images/IMG_20170120_142237.jpg)
+![da Prata 52](images/IMG_20170120_142237.jpg)
 
 >
 
 ![葡萄牙](images/IMG_20170120_162346.jpg)
 
->
+>Gelato of many flavour choices - The gelato is very nice. We had coconut and sweet egg flavours. The coconut flavour has bits in the gelato. I have never tried a sweet egg flavoured gelato. This one is really nice with egg yolk in the gelato.
 
-![葡萄牙](images/1000232.jpg)
+![Santini Chiado](images/1000232.jpg)
 
 >
 ```
