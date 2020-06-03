@@ -91,11 +91,11 @@ coverImage: "images/IMG_20170119_173737.jpg"
 
 ![Cervejaria Ramiro](images/IMG_20170119_193632.jpg)
 
->butter garlic clams - The garlic butter flavouring is very good. 
+>香蒜欧芹黄油蛤蜊，天作之合的口味搭配。
 
 ![Cervejaria Ramiro](images/1000146.jpg)
 
->猩红虾和虎虾
+>烤虎虾已经是肉肥膏满，然而竟被中间颜色更为鲜艳的猩红虾抢了风头。容我细细道来：
 ```
 虾中翘楚色猩红，壳薄肉满慨当慷。
 浅搁牛油恰添柴，柔软甘鲜自馨芳。
@@ -104,16 +104,16 @@ coverImage: "images/IMG_20170119_173737.jpg"
 
 >
 
-![葡萄牙](images/IMG_20170119_135929.jpg)
+![Radisson Blu Hotel](images/IMG_20170119_135929.jpg)
 
 >
 
-![葡萄牙](images/IMG_20170119_135947.jpg)
+![Radisson Blu Hotel](images/IMG_20170119_140126.jpg)
 
 >
 
-![葡萄牙](images/IMG_20170119_140102.jpg)
+![Radisson Blu Hotel](images/IMG_20170119_135947.jpg)
 
 >
 
-![葡萄牙](images/IMG_20170119_140126.jpg)
+![Radisson Blu Hotel](images/IMG_20170119_140102.jpg)
