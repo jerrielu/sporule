@@ -7,7 +7,11 @@ tags: "英国,苏格兰,推荐"
 coverImage: "images/201608-mhorfish-03.jpg"
 ---
 
->We stayed at Raasay House for one night. The selection was quite diverse for dinner, including scallop, mussels, cod etc. The seafood was not as fresh as I expected, however was prepared delicately. My favourite was the mushroom soup (full of tasteful mushroom taste) and sweet potato chips. The breakfast did not offer much choice, but still offered comfort food.
+>We stayed at Raasay House for one night. 
+
+![Raasay House](images/IMG_20160813_095127.jpg)
+
+>The selection was quite diverse for dinner, including scallop, mussels, cod etc. The seafood was not as fresh as I expected, however was prepared delicately. My favourite was the mushroom soup (full of tasteful mushroom taste) and sweet potato chips. The breakfast did not offer much choice, but still offered comfort food.
 
 ![Raasay House](images/201608-raasay-01.jpg)
 
