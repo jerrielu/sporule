@@ -1,13 +1,13 @@
 ---
-title: "里斯本阿尔加维"
+title: "【葡萄牙】法朵声中的里斯本 2/2"
 author: "九姨"
 date: "2022-11-06"
 categories: "游记"
-tags: "葡萄牙,里斯本,阿尔加维,拉哥斯,夸尔泰拉,法鲁"
+tags: "葡萄牙,里斯本"
 coverImage: "images/1000257.jpg"
 ---
 
->
+>在里斯本的第二天，得去城市中心逛逛。
 
 ## 行程总览
 
@@ -15,41 +15,41 @@ coverImage: "images/1000257.jpg"
 
 ## 里斯本
 
->
+>地铁出站的阶梯营造了一种饥饿的氛围。
 
-![葡萄牙](images/IMG_20170120_093123.jpg)
+![里斯本](images/IMG_20170120_093123.jpg)
 
->The store is at a very good location, but not easy to find. You can take away or eat at the bar. You can see the tarts being made at the bar. The crust is of many thin and crispy layers. The custard is a little bit too sweet.
+>早餐能吃到地道现烤葡式蛋挞的机会，人生几何。从吧台可以看见蛋挞的制作过程。饼皮轻薄细密酥脆。美中不足馅料稍微甜了一些。
 
-![葡萄牙](images/IMG_20170120_094235.jpg)
+![Manteigaria Fábrica de Pastéis de Nata](images/IMG_20170120_094235.jpg)
 
->
+>早餐后来到贾梅士广场，与事先预约的里斯本半日游导游集合。
 
-![葡萄牙](images/1000162.jpg)
+![里斯本](images/1000162.jpg)
 
->
+>广场上行人熙熙攘攘之间，也混进了一些一动不动又形神兼备的“人”。
 
-![葡萄牙](images/1000167.jpg)
+![里斯本](images/1000167.jpg)
 
->
+>长着铆钉的建筑外立面也很特别。
 
 ![葡萄牙](images/1000188.jpg)
 
+>1389年，保证了葡萄牙独立的佩雷将军建立了卡尔莫修道院。1755年11月1日，里斯本大地震摧毁了哥特式修道院的大部分建筑。修道院废墟如今成为了卡尔莫考古博物馆。
+
+![卡尔莫考古博物馆](images/IMG_20170120_112921.jpg)
+
+>博物馆位于希亚多区的一座小山丘上，可以远眺圣若热城堡山。
+
+![卡尔莫考古博物馆](images/IMG_20170120_112135.jpg)
+
+>商业广场
+
+![Praça do Comércio](images/IMG_20170120_115231.jpg)
+
 >
 
-![葡萄牙](images/IMG_20170120_112135.jpg)
-
->
-
-![葡萄牙](images/IMG_20170120_112921.jpg)
-
->
-
-![葡萄牙](images/IMG_20170120_115231.jpg)
-
->
-
-![葡萄牙](images/IMG_20170120_115238.jpg)
+![Praça do Comércio](images/IMG_20170120_115238.jpg)
 
 >
 

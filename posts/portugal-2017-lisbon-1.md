@@ -7,7 +7,7 @@ tags: "葡萄牙,里斯本"
 coverImage: "images/IMG_20170119_173737.jpg"
 ---
 
->一个偶然的机会让我来到了欧洲大陆最西端的葡萄牙，出乎意料地发现这里竟然这样的美丽和美味。
+>一个偶然的机会让我来到了欧洲大陆最西端的葡萄牙，出乎意料地发现这里竟然这样的美丽又美味。
 
 ## 行程总览
 
@@ -102,18 +102,18 @@ coverImage: "images/IMG_20170119_173737.jpg"
 ```
 ![Cervejaria Ramiro](images/IMG_20170119_195347_1.jpg)
 
->
+>晚上入住交通便利的里斯本丽笙酒店。
 
 ![Radisson Blu Hotel](images/IMG_20170119_135929.jpg)
 
->
+>酒店贴心地准备了水果和水。
 
 ![Radisson Blu Hotel](images/IMG_20170119_140126.jpg)
 
->
+>房间整洁大方。
 
 ![Radisson Blu Hotel](images/IMG_20170119_135947.jpg)
 
->
+>洗手间简洁素净，两个台盆的设计也非常实用。
 
 ![Radisson Blu Hotel](images/IMG_20170119_140102.jpg)
