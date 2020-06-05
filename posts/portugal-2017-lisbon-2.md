@@ -19,7 +19,7 @@ coverImage: "images/1000257.jpg"
 
 ![里斯本](images/IMG_20170120_093123.jpg)
 
->早餐能吃到地道现烤葡式蛋挞的机会，人生几何。从吧台可以看见蛋挞的制作过程。饼皮轻薄细密酥脆。美中不足馅料稍微甜了一些。
+>早餐能吃到地道现烤葡式蛋挞的机会，人生几何。从吧台可以看见蛋挞的制作过程。饼皮轻薄细密酥脆。美中不足的是馅料稍微甜了一些。
 
 ![Manteigaria Fábrica de Pastéis de Nata](images/IMG_20170120_094235.jpg)
 
@@ -35,7 +35,7 @@ coverImage: "images/1000257.jpg"
 
 ![葡萄牙](images/1000188.jpg)
 
->1389年，保证了葡萄牙独立的佩雷将军建立了卡尔莫修道院。1755年11月1日，里斯本大地震摧毁了哥特式修道院的大部分建筑。修道院废墟如今成为了卡尔莫考古博物馆。
+>公元十四世纪，保证了葡萄牙独立的佩雷将军建立了哥特式的卡尔莫修道院。1755年11月1日，里斯本大地震摧毁了修道院的大部分建筑。修道院废墟如今成为了卡尔莫考古博物馆。
 
 ![卡尔莫考古博物馆](images/IMG_20170120_112921.jpg)
 
@@ -43,69 +43,69 @@ coverImage: "images/1000257.jpg"
 
 ![卡尔莫考古博物馆](images/IMG_20170120_112135.jpg)
 
->商业广场
+>商业广场东侧的里斯本历史中心庄严夺目。
 
-![Praça do Comércio](images/IMG_20170120_115231.jpg)
+![Lisboa Story Centre](images/IMG_20170120_115231.jpg)
 
->
+>广场中央的雕像是骑着马的“改革者”国王若泽一世。
 
 ![Praça do Comércio](images/IMG_20170120_115238.jpg)
 
->
+>在城市里不知名的犄角旮旯，高大的橙树下排列着两张长椅。
 
-![葡萄牙](images/IMG_20170120_123559.jpg)
+![里斯本](images/IMG_20170120_123559.jpg)
 
->1
+>在这里，咱们的导游自弹自唱着法朵，他说这是命途多舛的葡萄牙独特的悲恸曲调。
 
-![葡萄牙](images/1000198.jpg)
+![里斯本](images/1000198.jpg)
 
->
+>他又打趣说歌曲《寂静之声》当中描写的“方石窄巷”说的是里斯本。
 
-![葡萄牙](images/IMG_20170120_162423.jpg)
+![里斯本](images/IMG_20170120_162423.jpg)
 
->
+>不知道是不是种种困境激发了葡萄牙人的超凡想象力，在蓝色的墙面安上了色彩跳脱的空中盆栽。
 
-![葡萄牙](images/IMG_20170120_124142.jpg)
+![里斯本](images/IMG_20170120_124142.jpg)
 
->
+>穿过许多巷弄后，来到了导游私藏的观景点。
 
-![葡萄牙](images/1000208.jpg)
+![里斯本](images/IMG_20170120_131526.jpg)
 
->
+>在这里不仅能看到数不胜数的橙色屋顶，还可以远望横跨塔霍河的悬索桥，4月25日大桥。这个名字来源于1974年4月25日发生的康乃馨革命，这天也被定为是葡萄牙的“自由日”。
 
-![葡萄牙](images/IMG_20170120_131526.jpg)
+![里斯本](images/1000208.jpg)
 
->
+>结束游览后，又到了觅食的时间。里斯本的主要街道上驶来了“当当”作响的黄色有轨电车。
 
-![葡萄牙](images/IMG_20170120_134834.jpg)
+![里斯本](images/IMG_20170120_134834.jpg)
 
->1
-
-![da Prata 52](images/1000213.jpg)
-
->A good choice for tapas - This is a restaurant where people can order several tapas to share. All tapas are delicately prepared. The foie gras is really delicious, tender and juicy. Octopus salad and roast vegetable are nice as well. However the deep fried sardine is a little bit disappointing - it is not crispy at all and has a bit fishy smell.
+>临街的小餐馆把门牌号作为他们的店名。
 
 ![da Prata 52](images/1000217.jpg)
 
->foie gras on toast with chives and nuts
+>菜单手写在一块木牌上。看似粗狂质朴，菜品却其实很精致。
+
+![da Prata 52](images/1000213.jpg)
+
+>整个葡萄牙行程当中最叫我念念不忘的就是这道鹅肝土司。厚厚的鹅肝煎得香喷喷，洒上葱花和坚果碎，油香饱满，嫩滑多汁。
 
 ![da Prata 52](images/1000223.jpg)
 
->octopus salad
+>章鱼沙拉里的章鱼腿口感弹牙，而吸盘部分是脆脆的。
 
 ![da Prata 52](images/1000227.jpg)
 
->cod in ham on rice
+>炖饭上放的是火腿包鳕鱼。
 
 ![da Prata 52](images/1000228.jpg)
 
->deep fried sadines
-
-![da Prata 52](images/IMG_20170120_141149.jpg)
-
->roast vegetable with hazlenut sauce
+>烤茄子和胡萝卜配的是榛子酱。
 
 ![da Prata 52](images/IMG_20170120_142237.jpg)
+
+>唯一有点失望的是炸沙丁鱼，因为它完全不脆，而且有些腥。
+
+![da Prata 52](images/IMG_20170120_141149.jpg)
 
 >
 
