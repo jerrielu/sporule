@@ -14,7 +14,6 @@ coverImage: "images/1000257.jpg"
 ![葡萄牙](images/lisbon.jpg)
 
 ## 里斯本
-
 >地铁出站的阶梯营造了一种饥饿的氛围。
 
 ![里斯本](images/IMG_20170120_093123.jpg)
@@ -107,86 +106,85 @@ coverImage: "images/1000257.jpg"
 
 ![da Prata 52](images/IMG_20170120_141149.jpg)
 
->
+>午餐后在市区逛逛，来到了高四十五米的新哥特式圣朱斯塔升降机。
 
 ![葡萄牙](images/IMG_20170120_162346.jpg)
 
->Gelato of many flavour choices - The gelato is very nice. We had coconut and sweet egg flavours. The coconut flavour has bits in the gelato. I have never tried a sweet egg flavoured gelato. This one is really nice with egg yolk in the gelato.
+>在爬楼梯和吃雪糕之间，果断选择了后者。两种口味分别是椰子和甜蛋，都是手工制作的。椰子雪糕里有椰蓉，口感更丰富；而甜蛋雪糕里还有蛋黄，新奇又美味。
 
 ![Santini Chiado](images/1000232.jpg)
 
->
+>看着夕阳下的里斯本，我好像有些能够理解出生于里斯本的伟大诗人费尔南多佩索阿 (Fernando Pessoa) 的感慨：
 ```
-"I am nothing.
-I'll never be anything.
-I couldn't want to be something.
-Apart from that, I have in me all the dreams in the world."
-by Fernando Pessoa
+我什么也不是，
+什么也成为不了，
+什么也不想成为，
+除此之外，我拥有这个世界所有的梦想。
 ```
 
-![葡萄牙](images/1000257.jpg)
+![里斯本](images/1000257.jpg)
 
->
+>晚餐的时候来到了米其林指南推荐的 Mini Bar。竟然在还没开门的时候就排起队来。
 
-![葡萄牙](images/IMG_20170120_191233.jpg)
+![Mini Bar](images/IMG_20170120_191233.jpg)
 
->Diners are in for a pleasant surprise as the dishes on the menu have been created by José Avillez – Michelin-Starred chef at the Belcanto restaurant. 米其林指南推荐
+>餐厅提供各种套餐，是由米其林星级大厨 José Avillez 制定的。
 
-![葡萄牙](images/IMG_20170120_191238.jpg)
+![Mini Bar](images/IMG_20170120_191238.jpg)
 
->卡琵莉亚是一种以卡沙夏为基酒调制而成的鸡尾酒，在巴西有着国民鸡尾酒的地位，巴西政府也曾为它立法订立法定酒谱。目前也是国际调酒师协会收录的正式鸡尾酒之一。一般而言卡琵莉亚的材料包含糖、莱姆还有卡沙夏。橄榄。
+>菜品精致充满创意。右手边翠绿色的珠子是莱姆味的卡琵莉亚鸡尾酒糖。中间黄绿色的两团啫喱里包裹的是橄榄汤。
 
-![葡萄牙](images/1000258.jpg)
+![Mini Bar](images/1000258.jpg)
 
->玛格丽塔。
+>谁能想到这块撒着盐的果肉是玛格丽塔味的。
 
-![葡萄牙](images/IMG_20170120_191805.jpg)
+![Mini Bar](images/IMG_20170120_191805.jpg)
 
->金箔费列罗
+>金箔费列罗是我最喜欢的巧克力。浓滑巧克力、香脆榛仁和松脆威化的结合怎么会这么无敌？
 
-![葡萄牙](images/IMG_20170120_191757.jpg)
+![Mini Bar](images/IMG_20170120_191757.jpg)
 
->鸡肉
+>鸡肉搭配牛油果泥和沙拉酱清新鲜活。
 
-![葡萄牙](images/1000259.jpg)
+![Mini Bar](images/1000259.jpg)
 
->虾
+>酸柑上工整地各摆了一只处理得非常干净的鲜虾刺生，鲜甜的滋味随着食材在口中的乳化变得越来越浓郁。
 
-![葡萄牙](images/1000260.jpg)
+![Mini Bar](images/1000260.jpg)
 
->吞拿鱼、扇贝
+>吞拿鱼和扇贝刺身塔塔被非常有创意地放在脆皮蛋筒里，甘甜鲜香。
 
-![葡萄牙](images/1000265.jpg)
+![Mini Bar](images/1000265.jpg)
 
->鸡蛋松露
+>只在鸡蛋上洒满松露这样简单的搭配竟然非常惊艳。
 
-![葡萄牙](images/IMG_20170120_194514.jpg)
+![Mini Bar](images/IMG_20170120_194514.jpg)
 
->炖吞拿鱼
+>脆饼上是炖吞拿鱼。
 
-![葡萄牙](images/IMG_20170120_194520.jpg)
+![Mini Bar](images/IMG_20170120_194520.jpg)
 
->吞拿鱼
+>另一款吞拿鱼则被放在盐灯加热的石板上，生熟参半让口感更好、味道也更突出。
 
-![葡萄牙](images/1000270.jpg)
+![Mini Bar](images/1000270.jpg)
 
->扇贝
+>盐灯石板烤扇贝，充满了氨基酸的味道。
 
-![葡萄牙](images/1000272.jpg)
+![Mini Bar](images/1000272.jpg)
 
->汉堡
+>汉堡包也是认真的呢！肉汁饱满、油香四溢。
 
-![葡萄牙](images/IMG_20170120_202129.jpg)
+![Mini Bar](images/IMG_20170120_202129.jpg)
 
->牛尾
+>炖牛尾香酥咸鲜。
 
-![葡萄牙](images/1000274.jpg)
+![Mini Bar](images/1000274.jpg)
 
->酸橙球，巧克力蛋筒
+>甜点分别有酸橙球和巧克力蛋筒。
 
-![葡萄牙](images/IMG_20170120_205119.jpg)
+![Mini Bar](images/IMG_20170120_205119.jpg)
 
->petit fours
+>最后还有甜蜜柔软的椰丝棉花糖。整个用餐体验很愉快，为我们的里斯本之行画上了浓墨重彩的句号。
 
-![葡萄牙](images/1000277.jpg)
+![Mini Bar](images/1000277.jpg)
 
