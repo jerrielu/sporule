@@ -3,7 +3,7 @@ title: "苏格兰高地"
 author: "九姨"
 date: "2019-11-17"
 categories: "游记"
-tags: "英国,苏格兰,高地,冬"
+tags: "英国,苏格兰,冬"
 coverImage: "images/IMG_20110108_234450.jpg"
 ---
 
