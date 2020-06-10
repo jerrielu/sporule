@@ -1,5 +1,5 @@
 ---
-title: "肯特郡罗彻斯特"
+title: "肯特郡梅德威河畔罗彻斯特"
 author: "九姨"
 date: "2022-11-27"
 categories: "攻略"
@@ -7,30 +7,30 @@ tags: "英国,英格兰,肯特郡,精选"
 coverImage: "images/05222775.jpg"
 ---
 
->
-
-![罗彻斯特](images/IMG_4847.jpg)
-
->
+>肯特郡梅德威河东岸有个可爱的小镇，罗彻斯特。
 
 ![罗彻斯特](images/IMG_4849.jpg)
 
->A well preserved castle by river - It is a well preserved castle by river and good view point to the cathedral a driver bank. 200 stairs to the top of the castle.
+>火车站外很随机地拜访了一架钢琴，上面写着“弹我”。
+
+![罗彻斯特](images/IMG_4847.jpg)
+
+>一出火车站，就能看见罗彻斯特座堂，是英格兰仅次于坎特伯里座堂的主教座堂。这座诺曼式教堂，也是英国的一级保护建筑。
+
+![罗彻斯特](images/05222786.jpg)
+
+>罗彻斯特城堡是英格兰最古老地城堡之一，可以追溯到罗马时期在这里地要塞。这座罗马风格城堡的主要建筑师也曾负责伦敦塔的修建工作。如今，它是英国保存最完整的中世纪城堡遗址之一。
 
 ![Rochester Castle](images/IMG_4861.jpg)
 
->Lovely and lively museum - The museum is consist of two parts. One is about the archeological discoveries in Rochester. The other is about life style in Rochester during Charles Dickens times.
+>市政厅博物馆由两部分组成，可爱又热闹。其一是关于罗彻斯特的考古发现；其二是关于狄更斯时代的生活方式。在博物馆的门口，我第一次在英国见到了绿色的邮筒。
 
 ![Guildhall Museum](images/IMG_4873.jpg)
 
->
+>再往前就到达了横跨梅德威河的罗彻斯特大桥。
 
 ![罗彻斯特](images/05222775.jpg)
 
->
+>看着河湾里停泊的各色船只，任河风拂过面颊，心都宁静了下来。
 
 ![罗彻斯特](images/05222774.jpg)
-
->
-
-![罗彻斯特](images/05222786.jpg)

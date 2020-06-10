@@ -7,15 +7,15 @@ tags: "英国,苏格兰,推荐"
 coverImage: "images/201608-mhorfish-03.jpg"
 ---
 
->Fish and chips flagship store - It is no doubt a fish and chips restaurant. There are a variety of fish selections including cod, haddock, monkfish etc. The fish can also be pan fried instead of traditional deep fried. My fish was very crispy on the outside and tender and fresh inside. I also had a soup of the day which is very hearty. The only thing I would moan about is that the chocolate milkshake was a bit too sweet.
+>苏格兰位于世界三大渔场之一的北海渔场附近，北大西洋暖流和东格陵兰寒流的交汇孕育了丰富的鱼产。在这里连炸鱼薯条都开起了“旗舰店”。除了炸鱼，餐厅还提供更健康的煎鱼选项，更有暖呼呼的杂菜炖汤和黄油面包。
 
 ![Mhor Fish](images/201608-mhorfish-01.jpg)
 
->
+>我的大炸鱼外表非常香脆，鱼肉鲜嫩。
 
 ![Mhor Fish](images/201608-mhorfish-02.jpg)
 
->
+>炸鱼的种类繁复，包括鳕鱼、线鳕、𩽾𩾌鱼等等。
 
 ![Mhor Fish](images/201608-mhorfish-03.jpg)
 
