@@ -3,7 +3,7 @@ title: "Authentic Italian cuisine in a quintessential British town Don Vincenzo"
 author: "九姨"
 date: "2022-12-04"
 categories: "美食"
-tags: "英国,英格兰,肯特郡,莱伊,精选"
+tags: "英国,英格兰,肯特郡,精选"
 coverImage: "images/IMG_4868.jpg"
 ---
 
