@@ -3,7 +3,7 @@ title: "朗科恩假日酒店 Holiday Inn Runcorn"
 author: "九姨"
 date: "2020-06-21"
 categories: "预定"
-tags: "英国,英格兰,朗科恩,推荐"
+tags: "英国,英格兰,柴郡,朗科恩,推荐"
 coverImage: "images/IMG_20170728_191742.jpg"
 ---
 

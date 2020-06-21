@@ -3,7 +3,7 @@ title: "沃金厄姆希尔顿圣安庄园 Hilton St Anne's Manor"
 author: "九姨"
 date: "2020-05-24"
 categories: "预定"
-tags: "英国,英格兰,沃金厄姆,推荐"
+tags: "英国,英格兰,伯克郡,沃金厄姆,推荐"
 coverImage: "images/20180825_182042.jpg"
 ---
 

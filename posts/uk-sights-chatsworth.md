@@ -1,5 +1,5 @@
 ---
-title: "简奥斯丁 Chatsworth House"
+title: "简奥斯丁笔下的达西庄园 Chatsworth House"
 author: "九姨"
 date: "2023-01-29"
 categories: "攻略"

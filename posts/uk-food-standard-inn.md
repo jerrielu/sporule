@@ -7,19 +7,19 @@ tags: "英国,英格兰,东萨塞克斯郡,莱伊,精选"
 coverImage: "images/IMG_20170604_121002.jpg"
 ---
 
->莱伊镇上The restaurant was in very quintessential Tudor style with low ceiling and exposed beams. The seats were covered with sheep fur. 
+>莱伊镇上一座典型都铎式梁柱外露的小房子里，有一间颇受欢迎的英式餐馆。座位上铺着柔软的羊皮毛。
 
 ![The Standard Inn](images/07033127.jpg)
 
->
+>新鲜扎啤清凉爽口。
 
 ![The Standard Inn](images/IMG_20170604_121003.jpg)
 
->The scallop was cooked just right with a fresh herbal flavour.
+>前菜竟然有五个大扇贝，烤得刚刚好，一咬就迸发出鲜甜的汁水。
 
 ![The Standard Inn](images/IMG_20170604_121002.jpg)
 
->The cod was served with barley rice and mushroom, which conveys a very interesting combination of tastes. 
+>香煎鳕鱼被搁在蘑菇炖麦饭上，是迥异又特别的鲜味结合。
 
 ![The Standard Inn](images/IMG_20170604_121001.jpg)
 
