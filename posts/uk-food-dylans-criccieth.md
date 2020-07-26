@@ -11,7 +11,7 @@ coverImage: "images/IMG_20170729_132328.jpg"
 
 ![Criccieth Dylan's](images/IMG_20170729_141134.jpg)
 
->从沙滩西望，是俯瞰大西洋的Criccieth城堡。如此海景相伴的午餐好幸福！
+>从沙滩西望，是俯瞰大西洋的Criccieth城堡。
 
 ![Criccieth Dylan's](images/IMG_20170729_124833.jpg)
 
