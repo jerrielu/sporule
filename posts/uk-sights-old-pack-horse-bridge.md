@@ -1,15 +1,17 @@
 ---
-title: "Old Pack Horse Bridge"
+title: "高地最古老的旧驮马石桥 (Old Pack Horse Bridge)"
 author: "九姨"
-date: ""
+date: "2023-05-14"
 categories: "攻略"
-tags: "英国,苏格兰,推荐"
+tags: "英国,苏格兰,精选"
 coverImage: "images/IMG_20160812_115334.jpg"
 ---
 
->Built 1717. High single span humpback rubble bridge over River Dulnain; tooled rubble arch springing from natural rock abutment. Neither surfacing nor parapet survive. The bridge was Listed at Category B on 05/10/1971. 'At the beginning of the eighteenth century, to the inconvenience of both travellers and local people, there was no point at which the River Dulnain could be crossed when it was in spate, and burials at the Church of Duthil were often delayed.
-Brigadier-General Alexander Grant of Grant, Clan Chief, commissioned John Niccelsone, a mason from Ballindalloch to build a bridge at Lynne of Dalrachney. Built between May and November 1717, the bridge was paid for out of stipends of the Parish of Duthil. Its parapets and side walls were badly damaged in the 18th century and again in the famous flood of 1829, giving the appearance it still has today.'
-
+>建于1717年的中世纪单拱石桥横跨于达南河 (River Dulnain) 上，原是为了方便游客和本地人在汛期过河而建。1829年的洪水冲毁了桥梁的围栏，形成了我们现在看到的样子，并在1971年被列为保护建筑。
+```
+白云浮蓝天，青苔绿树前。
+古桥似霓虹，桥下奔湍涧。
+```
 ![Old Pack Horse Bridge](images/IMG_20160812_115334.jpg)
 
 
