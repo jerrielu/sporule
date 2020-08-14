@@ -1,5 +1,5 @@
 ---
-title: "伦敦博多拉面店 Tonkotsu"
+title: "伦敦豚骨拉面店 Tonkotsu"
 author: "九姨"
 date: "2023-06-04"
 categories: "美食"
