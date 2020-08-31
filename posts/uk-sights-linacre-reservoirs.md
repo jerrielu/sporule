@@ -7,7 +7,7 @@ tags: "英国,英格兰,德比郡,推荐"
 coverImage: "images/P1000733.jpg"
 ---
 
->峰区的 Linacre 水库由三个水库组成，在1995年前曾供水给附近的切斯菲尔德
+>峰区的 Linacre 水库由三个水库组成，在1995年前曾供水给附近的切斯菲尔德。
 
 ![Linacre Reservoirs](images/P1000616.jpg)
 
