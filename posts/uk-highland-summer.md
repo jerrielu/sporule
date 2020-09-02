@@ -91,3 +91,8 @@ coverImage: "images/IMG_20130825_112850.jpg"
 
 ![格拉斯哥](images/IMG_20130825_220824.jpg)
 
+[点击就看苏格兰吃什么](/posts/categories/%E7%BE%8E%E9%A3%9F?pagetype=uk-food&tags=英国,苏格兰&extags=)
+
+[点击就看苏格兰玩什么](/posts/categories/攻略?pagetype=uk-play&tags=英国,苏格兰&extags=)
+
+[点击就看全部上述内容](/posts?tags=苏格兰)

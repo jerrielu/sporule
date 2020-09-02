@@ -1,7 +1,7 @@
 ---
 title: "凯尼尔沃思米其林一星餐厅 The Cross at Kenilworth"
 author: "九姨"
-date: "2023-09-03"
+date: "2023-10-01"
 categories: "美食"
 tags: "英国,英格兰,沃里克郡,凯尼尔沃思,米其林,精选"
 coverImage: "images/IMG_20200827_131615.jpg"
