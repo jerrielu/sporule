@@ -9,6 +9,10 @@ coverImage: "images/IMG_20200831_164956.jpg"
 
 >。
 
+![Ippudo](images/IMG_20200831_172428.jpg)
+
+>。
+
 ![Ippudo](images/IMG_20200831_164956.jpg)
 
 >。
