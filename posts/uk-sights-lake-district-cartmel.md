@@ -7,29 +7,27 @@ tags: "英国,英格兰,湖区,坎布里亚郡,南莱克兰,卡特梅尔,必去"
 coverImage: "images/IMG_20200824_150252.jpg"
 ---
 
->卡特梅尔位于湖区的东南角，小小的镇子在天气好的时候非常可爱。
+>卡特梅尔位于湖区的东南角，小小的镇子在天气好的时候非常可爱。小巧的方尖碑在日头下投出长长的影子。
 
 ![Cartmel](images/IMG_20200824_145158.jpg)
 
->卡特梅尔修道院始建于公元七世纪，历史十分悠久。
+>卡特梅尔修道院始建于公元七世纪，默默地矗立着，遇见了好多古往今来的人。
 
 ![Cartmel Priory](images/IMG_20200824_144043.jpg)
 
->小镇里的人像雕塑也有中世纪的遗风。
+>小镇里的人像雕塑有些文艺复兴的风格。
 
 ![Cartmel](images/IMG_20200824_145108.jpg)
 
->伊尔河(River Eea)穿城而过，
+>伊尔河(River Eea)温柔地穿城而过。
 
 ![Cartmel](images/IMG_20200824_145401.jpg)
 
->纯净的山泉水清澈见底。
+>源自山泉的河水清澈见底。
 
 ![Cartmel](images/IMG_20200824_150252.jpg)
 
 
-网站：[https://www.stwater.co.uk/wonderful-on-tap/our-visitor-sites/come-visit-us/linacre/](https://www.stwater.co.uk/wonderful-on-tap/our-visitor-sites/come-visit-us/linacre/)
-
-地址：Woodnook Lane, Cutthorpe, Chesterfield, S42 7JN
+地址：Cartmel, Grange-over-Sands
 
 ![Cartmel](images/cartmel.jpg)
