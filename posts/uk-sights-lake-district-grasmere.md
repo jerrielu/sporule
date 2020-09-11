@@ -1,5 +1,5 @@
 ---
-title: "湖区 Grasmere"
+title: "湖区红河双姝格拉斯湖和莱达尔湖"
 author: "九姨"
 date: "2023-07-23"
 categories: "攻略"
@@ -17,7 +17,7 @@ coverImage: "images/IMG_20200826_105911.jpg"
 
 >
 
-![](images/IMG_20200826_113054.jpg)
+![River Rothay](images/IMG_20200826_113054.jpg)
 
 >
 
@@ -29,29 +29,27 @@ coverImage: "images/IMG_20200826_105911.jpg"
 
 >
 
-![](images/IMG_20200826_105911.jpg)
+![Grasmere](images/IMG_20200826_105911.jpg)
 
 >
 
-![](images/IMG_20200826_103918.jpg)
+![River Rothay](images/IMG_20200826_103918.jpg)
 
 >
 
-![](images/IMG_20200826_103615.jpg)
+![Grasmere](images/IMG_20200826_103615.jpg)
 
 >
 
-![](images/IMG_20200826_113332.jpg)
+![River Rothay](images/IMG_20200826_113332.jpg)
 
 >
 
 ![](images/IMG_20200831_202635.jpg)
 
->
 
-![](images/grasmere.jpg)
-
-
-网站：[https://www.stwater.co.uk/wonderful-on-tap/our-visitor-sites/come-visit-us/linacre/](https://www.stwater.co.uk/wonderful-on-tap/our-visitor-sites/come-visit-us/linacre/)
+网站：[https://www.lakedistrict.gov.uk/visiting/places-to-go/explore-grasmere-and-rydal](https://www.lakedistrict.gov.uk/visiting/places-to-go/explore-grasmere-and-rydal)
 
 地址：Woodnook Lane, Cutthorpe, Chesterfield, S42 7JN
+
+![grasmere](images/grasmere.jpg)
