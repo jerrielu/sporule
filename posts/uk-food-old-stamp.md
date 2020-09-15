@@ -7,31 +7,31 @@ tags: "英国,英格兰,湖区,坎布里亚郡,安布尔塞德,米其林,必去"
 coverImage: "images/IMG_20200826_130752.jpg"
 ---
 
->。
+>安布尔塞德三面环山，一面临湖。置身这个山脚下的小镇，有种身在瑞士的感觉。
 
-![The Old Stamp House](images/IMG_20200824_160705.jpg)
+![AMBLESIDE](images/IMG_20200824_160705.jpg)
 
->。
+>大隐于此的是一间米其林一星的乡村菜馆旧章屋 (Old Stamp House)。
 
 ![The Old Stamp House](images/IMG_20200826_122521.jpg)
 
->。
+>外露的黑色木梁底下是凹凸不平的白色石墙、复古的玻璃灯罩、湖区的风景画、羊形铜塑和整整一墙的葡萄酒。与其说是下馆子，更像是在人家家里做客。
 
 ![The Old Stamp House](images/IMG_20200826_131653.jpg)
 
->。
+>坐下后，桌上有一封盖了戳的欢迎信，内附对菜品充满感情的详细解释。平板里面是餐厅的酒单。
 
 ![The Old Stamp House](images/IMG_20200826_122720.jpg)
 
->。
+>来到湖区当然要尝一尝湖区鹰首酒厂 (Hawkshead Brewery) 生产的低温窖藏啤酒。入口清新冷冽，带有微苦的麦芽香味。
 
 ![The Old Stamp House](images/IMG_20200826_123701.jpg)
 
->。
+>首先上的是三样创意小点。
 
 ![The Old Stamp House](images/IMG_20200826_123906.jpg)
 
->black pudding "bon bon" - cumberland sauce - puckled apple。
+>黑布丁“夹心糖”，以血、内脏和碎肉肠为底，一片腌渍过的苹果上再挤上一点酸甜的昆布兰酱。
 
 ![The Old Stamp House](images/IMG_20200826_123927.jpg)
 
