@@ -31,27 +31,27 @@ coverImage: "images/IMG_20200826_130752.jpg"
 
 ![The Old Stamp House](images/IMG_20200826_123906.jpg)
 
->黑布丁“夹心糖”，以血、内脏和碎肉肠为底，一片腌渍过的苹果上再挤上一点酸甜的昆布兰酱。
+>黑布丁“夹心糖”，以血、内脏和碎肉肠为基础，搭配一片腌渍过的苹果上再挤上一点酸甜的昆布兰酱，是我吃过口味最清新的黑布丁。
 
 ![The Old Stamp House](images/IMG_20200826_123927.jpg)
 
->slow braised wild Cumbrian rabbit haunch, wrapped in brick pastry - served with sweet pickled carrot, piccalilli puree and coriander。
+>慢炖昆布兰野兔后腿与甜渍胡萝卜脆皮卷，以香料芥末酱和香菜调味，兔腿一蹬就把我带去了暖风习习的南亚。
 
 ![The Old Stamp House](images/IMG_20200826_123939.jpg)
 
->cucumber meringue, pickled cucumber, oyster emulsion and butterfly sorrel （酸模，又名蕦、薞芜，蓼科多年生草本植物，欧洲和西亚大多数的草原均可见到其踪迹。酸模含有丰富的维他命A、维他命C及草酸，草酸导致此植物尝起来有酸溜口感，常作料理调味用。酸模亦具药用价值，有利尿、发汗、行血等功效。）
+>这三样当中最特别的当属清甜的黄瓜蛋白脆饼夹着甘鲜的蚝酱和略带刺激味道的腌黄瓜和蝴蝶酸模，多层次的味道鲜明又和谐。
 
 ![The Old Stamp House](images/IMG_20200826_123950.jpg)
 
->bread make from Carrs malted seeded flour and last wolf beer brewed by Peter Unsworth in Cartmel - handmade butter made by Jeremy Jackson at winter tarn dairy at Crosby Rravensworth。
+>接着上桌的是我至今吃过最好吃的餐前面包，由品牌麦芽果仁面粉和卡特梅尔“最后的狼”（一种本地的红棕色艾尔啤酒）制成，不仅表皮出类拔萃的酥，海绵状部分较其他面包更为紧实湿润，还具有浓郁的麦芽、水果和巧克力的香气，看似平平无奇，却出其不意地惊艳了味蕾。
 
 ![The Old Stamp House](images/IMG_20200826_125629.jpg)
 
->Yew Tree Farm Herdwick hogget - Herdwick is a species of sheep that is native to the Cumbrian fells, ours is supplied by John Watson who farms at Yew Tree farm located 5 miles from the restaurant. The loin is served as a tartare and garnished with garlic puree and puree and pickled wild garlic capers. The breast which has been slow cooked and breaded then fried which is known locally as a scrumpet, served with a mint and anchovy emulsion.
+>距离餐厅大约五英里处的紫杉农场，放养着昆布兰山区体格强健、屡获殊荣的本地草原绵羊 (Herdwick hogget)。餐厅利用这种羔羊的不同部位，制作了一组羊肉三吃。木勺里乘的是以少许咸香蒜酱和酸甜腌野蒜籽调味的羊排塔塔。这生羊肉竟然毫不腥膻，反而从咀嚼当中生出奶香鲜甜的滋味。陶盘上则摆着先慢炖、薄裹粉、再油炸的羔羊胸部肉丁，又香又酥，再以薄荷解腻、鳀鱼酱提鲜，口味复合，非常好吃。
 
 ![The Old Stamp House](images/IMG_20200826_130752.jpg)
 
->Slowly braised shoulder glazed in the braising stock. The garnish on the shoulder is pickled garlic capers and red cabbage, and the clarified stock seasoned with Madeira and then clarified. 。
+>清汤马德拉酒慢炖羊肩，软而不烂，醇香馥郁，腌渍过的野蒜籽和紫甘蓝丝Slowly braised shoulder glazed in the braising stock. The garnish on the shoulder is pickled garlic capers and red cabbage, and the clarified stock seasoned with Madeira and then clarified. 。
 
 ![The Old Stamp House](images/IMG_20200826_130737.jpg)
 
