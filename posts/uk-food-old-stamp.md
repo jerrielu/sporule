@@ -51,19 +51,19 @@ coverImage: "images/IMG_20200826_130752.jpg"
 
 ![The Old Stamp House](images/IMG_20200826_130752.jpg)
 
->清汤马德拉酒慢炖羊肩，软而不烂，醇香馥郁，腌渍过的野蒜籽和紫甘蓝丝Slowly braised shoulder glazed in the braising stock. The garnish on the shoulder is pickled garlic capers and red cabbage, and the clarified stock seasoned with Madeira and then clarified. 。
+>清汤马德拉酒慢炖羊肩，软而不烂，醇香馥郁。腌渍过的野蒜籽和紫甘蓝丝恰到好处地增添了些清新爽口的味道。
 
 ![The Old Stamp House](images/IMG_20200826_130737.jpg)
 
->roasted cod loin sourced from the day boats fishing from Hartlepool - pickled artichoke puree - kale crisps - smoked pike roe from Coniston lakes in classic beurre blanc sauce。
+>羽衣甘蓝被炸出了海苔的意思，下面的哈特尔浦现捕鳕鱼鱼排被烤得将将断生，表皮金黄，使用加入了烟熏科尼斯顿水域狗鱼籽的白奶油酱和腌菜蓟酱调味，鲜得层次分明。
 
 ![The Old Stamp House](images/IMG_20200826_133106.jpg)
 
->alston moor grouse - truffle freshly grated over the cep puree tortellini - celeriac is made into a putee and shredded and crisped。
+>奥尔斯顿湿地季节限定的松鸡两吃：在洒满鲜刨松露的菌菇馅意大利馄饨的左边是煎得半熟的鲜嫩鸡胸，右边则是烤得香喷喷又有弹性的鸡腿。更厉害的是，看似普通的根芹酱很好地中和了松鸡的野味。吃完这一道菜，心里全是对大自然的感恩和敬畏。
 
 ![The Old Stamp House](images/IMG_20200826_135834.jpg)
 
->rum tart - brambles (blackberries) + gel and sorbet - caramelised rum custard on cumbrian gingerbread as a base。A tuile was made from the gingerbread trim.
+>以昆布兰姜饼为底的焦糖朗姆卡仕达塔柔软香甜，通过黑莓和黑莓酱的桥梁，过渡到插着脆薄姜糖片的黑莓冰沙，酸甜灵动，齿颊留香。
 
 ![The Old Stamp House](images/IMG_20200826_143143.jpg)
 
