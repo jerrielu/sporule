@@ -67,7 +67,7 @@ coverImage: "images/IMG_20200826_130752.jpg"
 
 ![The Old Stamp House](images/IMG_20200826_143143.jpg)
 
->。
+>离开餐厅时，才发现小镇上的房子也好像童话当中描述的姜饼屋，糖果店的橱窗上还有彩虹的图案。不知道是这样的氛围孕育了湖畔诗人，还是华兹华斯的灵魂滋养着这样的浪漫主义小镇和餐厅。
 
 ![The Old Stamp House](images/IMG_20200826_122453.jpg)
 
@@ -78,4 +78,4 @@ coverImage: "images/IMG_20200826_130752.jpg"
 
 地址：CHURCH STREET, AMBLESIDE LA22 OBU
 
-![Rogan and Co](images/oldstamp.jpg)
+![The Old Stamp House](images/oldstamp.jpg)
