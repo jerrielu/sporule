@@ -20,8 +20,6 @@ coverImage: "images/IMG_20200824_081108.jpg"
 ![Langsett Reservoir](images/IMG_20200823_150445.jpg)
 
 
-网站：[]()
-
-地址：
+网站：[https://www.peakdistrict.gov.uk/visiting/miles-without-stiles/langsett](https://www.peakdistrict.gov.uk/visiting/miles-without-stiles/langsett)
 
 ![Langsett Reservoir](images/langsett.jpg)
