@@ -1,7 +1,7 @@
 ---
 title: "安布尔塞德乡村米其林一星餐厅 The Old Stamp House"
 author: "九姨"
-date: "2023-07-16"
+date: "2020-11-29"
 categories: "美食"
 tags: "英国,英格兰,湖区,坎布里亚郡,安布尔塞德,米其林,必去"
 coverImage: "images/IMG_20200826_130752.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "巴罗因弗内斯智选假日酒店 Holiday Inn Express Barrow-in-Furness"
 author: "九姨"
-date: "2023-08-06"
+date: "2020-12-27"
 categories: "预定"
 tags: "英国,英格兰,湖区,坎布里亚郡,南莱克兰,巴罗因弗内斯,精选"
 coverImage: "images/IMG_20200824_221907.jpg"
