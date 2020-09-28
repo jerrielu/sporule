@@ -7,6 +7,10 @@ tags: "英国,英格兰,推荐,伦敦"
 coverImage: "images/IMG_20200831_114348.jpg"
 ---
 
+>
+
+![Cafe East](images/IMG_20200921_220704.jpg)
+
 >三色冰饮的三色分别是红色甜蜜的腰豆沙，绿色清新的斑斓啫喱，和白色清甜的椰子汁，放在现打的沙冰上，清热解暑。
 
 ![Cafe East](images/IMG_20200831_113716.jpg)
@@ -23,12 +27,11 @@ coverImage: "images/IMG_20200831_114348.jpg"
 
 ![Cafe East](images/IMG_20200831_114458.jpg)
 
->椰汁眉豆糯米布丁，。
-
+>椰汁眉豆糯米布丁有冷热两种选择。
 
 
 网站：[http://www.cafeeastpho.co.uk/](http://www.cafeeastpho.co.uk/)
 
 地址：100 REDRIFF RD, SURREY QUAYS LEISURE PARK SE16 7LH
 
-![Cafe East](images/.jpg)
+![Cafe East](images/cafeeast.jpg)
