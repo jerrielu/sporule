@@ -11,13 +11,11 @@ coverImage: "images/IMG_20200831_164956.jpg"
 
 ![Ippudo](images/IMG_20200831_172428.jpg)
 
->推出于1996年的经典白丸原味拉面，拥有一风堂经典的豚骨拉面，自制细长拉面，pork belly chashu, sesame kikurage mushrooms, bean sprouts, and spring onions. A classic, Hakata-style ramen
-
-SHIROMARU CLASSIC - A bowl full of basics IPPUDO’s original creamy tonkotsu pork broth served with homemade thin and straight noodles, topped with pork belly chashu, sesame kikurage mushrooms, bean sprouts, bamboo shoots and spring onions. A classic, Hakata-style ramen.。
+>推出于1996年的经典白丸原味拉面是典型的博多拉面，拥有浓厚的豚骨高汤，自制的细长拉面，香酥的猪肉叉烧，脆弹的木耳丝，爽口的豆芽，鲜嫩的笋丝，和辛香葱花。
 
 ![Ippudo](images/IMG_20200831_164956.jpg)
 
->日式高汤，是日本式高汤，主要用到日式柴鱼丝同海带煲成。。
+>用日式柴鱼海带高汤煨出来的猪肉粒、洋葱和鸡蛋盖在日本米饭上，再撒上海苔末和葱花，看似简单，实而不简单。
 
 ![Ippudo](images/IMG_20170715_161049.jpg)
 
