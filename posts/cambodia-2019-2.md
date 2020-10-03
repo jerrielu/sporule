@@ -23,7 +23,7 @@ coverImage: "images/P1040762.jpg"
 
 ![吴哥窟](images/cambodiaflag.jpg)
 
->走在横跨护城河的长堤上，见到红莲开得正好。
+>走在横跨护城河的长堤上，见到将“时光染香”的红莲开得正好。
 
 ![吴哥窟](images/P1040725.jpg) 
 
