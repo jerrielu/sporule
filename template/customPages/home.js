@@ -24,7 +24,7 @@ const Home = (props) => {
                         const location_search = '?' + item.link.split('?')[1]
                         const tagsString = queryString.parse(location_search).tags;
                         const excludedTagsString = queryString.parse(location_search).extags;
-                        const page = 0;
+                        let page = 0;
                         const categories = categoriesString ? categoriesString.split(",") : [];
                         const tags = tagsString ? tagsString.split(",") : [];
                         const excludedTags = excludedTagsString ? excludedTagsString.split(",") : [];
