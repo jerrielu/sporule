@@ -29,8 +29,8 @@ const Home = (props) => {
                         const tags = tagsString ? tagsString.split(",") : [];
                         const excludedTags = excludedTagsString ? excludedTagsString.split(",") : [];
                         const searchString = queryString.parse(location_search).search || "";
-                        const posts = PostHelper.getPostsByPage(props.posts, page, true, searchString, categories, tags, excludedTags);
-                        const post_items = posts.items;
+                        let posts = PostHelper.getPostsByPage(props.posts, page, true, searchString, categories, tags, excludedTags);
+                        let post_items = posts.items;
                         while (searchString =="" && posts.hasNextPage){
                             page +=1;
                             posts = PostHelper.getPostsByPage(props.posts, page, true, searchString, categories, tags, excludedTags);
