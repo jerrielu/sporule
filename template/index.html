@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title><%= Config.site %></title>
+    <meta name="description" content="<%= Config.description %>" data-react-helmet="true"/>
+    <meta name="keywords" content="<%= Config.keywords %>" />
+
+    <!-- vendor meta start -->
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <!-- vendor meta end-->
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.4.min.js"></script>
+    <% for (var css in htmlWebpackPlugin.files.css) { %>
+        <link async href="<%= htmlWebpackPlugin.files.css[css] %>" rel="stylesheet">
+        <% } %>
+
+
+</head>
+
+<body>
+    <noscript>Your browser does not support Javascript!</noscript>
+    <div id="app"></div>
+
+    <% for (var chunk in htmlWebpackPlugin.files.chunks) { %>
+        <script src="<%= htmlWebpackPlugin.files.chunks[chunk].entry %>"></script>
+        <% } %>
+        
+    <!-- vendor js start-->
+    <script src="https://kit.fontawesome.com/56f7faf3f4.js" async defer></script>
+    <!-- vendor js end-->
+</body>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+</html>

@@ -1,0 +1,147 @@
+.filterTag{
+    color: #404040;
+    font-size: 20px;
+    border: #f5c4c4c2 1px solid;
+    margin: 5px;
+    padding: 3px;
+}
+
+section.blog-content article, .bog-header h2{
+    text-transform: capitalize;
+}
+.filterTagContainer{
+    line-height: 2.5;
+    margin-bottom: 100px;
+}
+
+.col-full{
+    width: 100%;
+    text-align: center;
+}
+
+.nav-icon{
+    margin: 0 100px 50px 100px;
+    font-size: 30px;
+    color: #404040!important;
+    text-decoration: none!important;
+}
+
+.entry__taxonomies>div {
+    float: left;
+    width: 50%;
+    padding-right: 20px;
+}
+
+.entry__taxonomies h5 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.286;
+    text-transform: uppercase;
+    letter-spacing: .25rem;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+}
+
+.entry__tax-list {
+    display: inline-block;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.entry__tax-list a:last-child {
+    margin-right: 0;
+}
+.entry__tax-list a {
+    display: inline-block;
+    font-family: Nunito Sans,sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: rgba(0,0,0,.5);
+    margin-right: 3px;
+}
+
+.entry__tax-list--pill a {
+    font-size: 1.4rem;
+    line-height: 1.714;
+    border: 1px solid rgba(0,0,0,.3);
+    border-radius: 3px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    padding: 0 10px;
+}
+
+.entry__taxonomies {
+    margin-top: 6rem;
+}
+
+img{
+    max-width: 100%;
+}
+
+#disqus_thread{
+    margin-top:20rem;
+}
+
+header[role="header"] nav #menu-button{
+    z-index:9999!important;
+}
+
+header[role="header"] nav ul {
+    z-index:9990!important;
+}
+
+figure.effect-oscar:hover {
+
+	background-color: #404040!important;
+
+}
+
+figure.effect-oscar img {
+    opacity: 0.6!important;
+    
+}
+
+figure img{
+    min-height: 400px!important;
+}
+
+.searchBox input[type="text"]{
+    text-align: center;
+    width: 30%;
+    margin-left:35%;
+    margin-bottom:169px;
+    display: block;
+    outline: none;
+    border-bottom: 1px solid #bbbbbb;
+    background-color: inherit;
+    color: #404040;
+    line-height: 23px;
+}
+
+header[role="header"] nav ul{
+    padding-top: 30px!important;
+}
+
+.home-post-list{
+    text-align: left;
+}
+
+.home-post-more{
+    text-align: right;
+}
+.margin-top-30{
+    margin-top:30px!important;
+}
+
+
+body {
+    transition: all 0.5s ease;
+  }
+
+  .switch-wrapper {
+    position: relative;
+  }
+   
+  .switch-wrapper > div {
+    position: absolute;
+  }
