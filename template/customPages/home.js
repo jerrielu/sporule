@@ -31,11 +31,6 @@ const Home = (props) => {
                         const searchString = queryString.parse(location_search).search || "";
                         let posts = PostHelper.getPostsByPage(props.posts, page, true, searchString, categories, tags, excludedTags);
                         let post_items = posts.items;
-                        while (searchString =="" && posts.hasNextPage){
-                            page +=1;
-                            posts = PostHelper.getPostsByPage(props.posts, page, true, searchString, categories, tags, excludedTags);
-                            post_items = post_items.concat(posts.items);
-                        }
                         return (
                             <section key={index} className="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
                                 <figure className="effect-oscar">
