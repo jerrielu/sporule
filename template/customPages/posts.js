@@ -3,6 +3,7 @@ import { Link } from "react-router-dom"
 import TemplateConfig from "../_templateConfig";
 import Config from "../../_config";
 
+
 const Posts = (props) => {
     var prev;
     var next;
@@ -97,7 +98,7 @@ const Posts = (props) => {
             </div>
             <section id="sidebar">
                 <section id="intro">
-                <Link to="/" className="logo"><img src={Config.logo} alt={Config.site} /></Link>
+                    <Link to="/" className="logo"><img src={Config.logo} alt={Config.site} /></Link>
                     <header>
                         <h2>{Config.site}</h2>
                         <p>{Config.subTitle}</p>

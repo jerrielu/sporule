@@ -2,7 +2,7 @@ import React from "react"
 import TemplateConfig from "./_templateConfig";
 import { Link } from "react-router-dom";
 import Config from "../_config";
-
+import { Helmet } from "react-helmet";
 
 const PostTemplate = (props) => {
     let title = props.post.title;
@@ -13,6 +13,9 @@ const PostTemplate = (props) => {
     });
     return (
         <React.Fragment>
+            <Helmet>
+                <meta name="description" content={props.post.excerpt.replaceAll(">", "")} ></meta>
+            </Helmet>
             <div id="main">
                 <article className="post">
                     <header>
