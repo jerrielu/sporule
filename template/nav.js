@@ -7,6 +7,7 @@ const NavTemplate = (props) => {
 
     let onSubmit = () => {
         let search_route = "/posts/?pagetype=search";
+        document.getElementById('main').click();
         props.searchAction(search_route);
     }
     return (
