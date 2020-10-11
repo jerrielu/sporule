@@ -97,7 +97,7 @@ const Posts = (props) => {
             </div>
             <section id="sidebar">
                 <section id="intro">
-                    <a href="#" className="logo"><img src={Config.logo} alt={Config.site} /></a>
+                <Link to="/" className="logo"><img src={Config.logo} alt={Config.site} /></Link>
                     <header>
                         <h2>{Config.site}</h2>
                         <p>{Config.subTitle}</p>
