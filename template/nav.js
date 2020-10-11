@@ -7,36 +7,62 @@ const NavTemplate = (props) => {
 
     let onSubmit = () => {
         let search_route = "/posts/?pagetype=search";
-        //close the menu button;
-        document.getElementById('menu-button').click();
         props.searchAction(search_route);
     }
     return (
-        <header role="header">
-            <div className="container">
-                <h1>
-                    <Link to="/" title={Config.site}><img src={Config.logo} title={Config.site} alt={Config.site} className="logo" /></Link>
-                </h1>
-                <nav role="header-nav" className="navy" id="nav-bar">
-                    <ul>
-                        <li>
-                            <form role="search" className="searchBox" method="get" onSubmit={onSubmit}>
-                                <input type="text" placeholder="输入关键字搜索" name="search" onChange={o => { }} />
-                            </form>
-                        </li>
-                        {
-                            Object.keys(TemplateConfig.navs).map((index, key) => {
-                                return (
-                                    <li className="nav-item" key={index}><Link to={TemplateConfig.navs[index]} title={index}>{index}</Link></li>
-                                );
-                            })
-                        }
+        <React.Fragment>
+        <header id="header">
+        <h1><Link to="/" title={Config.site}>{Config.site}</Link></h1>
+        <nav className="links">
+            <ul>
+                {
+                    TemplateConfig.navs.map((item, key) => {
+                        return (
+                            <li key={item.title}><Link to={item.link} title={item.title}>{item.title}</Link></li>
+                        );
+                    })
+                }
+            </ul>
+        </nav>
+        <nav className="main">
+            <ul>
+                <li className="search">
+                    <a className="fa-search" href="#search">搜索</a>
+                    <form id="search" method="get" onSubmit={onSubmit}>
+                        <input type="text" name="search" placeholder="搜索" />
+                    </form>
+                </li>
+                <li className="menu">
+                    <a className="fa-bars" href="#menu">菜单</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
 
-                    </ul>
+    <section id="menu">
+            <section>
+                    <form id="search" method="get" onSubmit={onSubmit}>
+                        <input type="text" name="search" placeholder="搜索" />
+                    </form>
+            </section>
 
-                </nav>
-            </div>
-        </header>
+            <section>
+                <ul className="links">
+                {
+                    TemplateConfig.navs.map((item, key) => {
+                        return (
+                            <li key={item.title}>
+                                <Link to={item.link} title={item.title}>
+                                    <h3>{item.title}</h3>
+                                 </Link>
+                            </li>
+                        );
+                    })
+                }
+                </ul>
+            </section>
+    </section>
+    </React.Fragment>  
     );
 }
 

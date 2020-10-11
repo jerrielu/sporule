@@ -1,131 +1,160 @@
-import React from "react";
+import React, { Fragment } from "react";
+import { Link } from "react-router-dom"
 import TemplateConfig from "../_templateConfig";
 import Config from "../../_config";
-import { Helmet } from "react-helmet";
-import { Link } from "react-router-dom";
 
 const Posts = (props) => {
     var prev;
     var next;
     var categories;
-
+    var tags;
     if (props.prev) {
-        prev = <span className="prev">
-            <Link to="#" className="fas fa-arrow-left nav-icon" onClick={props.prev}>
-            </Link>
-        </span>;
+        prev = <li>
+            <a href="#" className="button large previous" onClick={props.prev}>
+                Previous Page
+            </a>
+        </li>;
     }
     if (props.next) {
-        next = <span className="next">
-            <Link to="#" className="fas fa-arrow-right nav-icon" onClick={props.next}>
-            </Link>
-        </span>;
+        next = <li className="next">
+            <a href="#" className="button large next" onClick={props.next}>
+                Next Page
+        </a>
+        </li>;
     }
     if (props.categories.length > 0) {
-        categories = props.categories[0];
+        categories = <div>
+            Categories: {props.categories.join(",")}
+        </div>
     }
-    var pageType = TemplateConfig.pageTypes[new URLSearchParams(window.location.search).get("pagetype")] || TemplateConfig.pageTypes["all"];
+    if (props.tags.length > 0) {
+        tags = <div>
+            Tags: {props.tags.join(",")}
+        </div>
+    }
     return (
         <React.Fragment>
-            <Helmet>
-                <title>{Config.site} - {pageType.title}</title>
-                <meta name="description" content={pageType.description} ></meta>
-            </Helmet>
-            <main role="main-inner-wrapper" className="container">
-                <div className="row">
-                    <article role="pge-title-content" className="blog-header">
-                        <header>
-                            <h2><span>{pageType.title}</span>{pageType.subTitle}</h2>
-                        </header>
-                        <p>{pageType.description}</p>
-                        <div className="filterTagContainer">
-                            {
-                                pageType.filterTags.map((tag, index) => {
-                                    var link = "/posts/categories/" + props.categories[0] + "?pagetype=" + pageType.pageType + "&tags=" + [...pageType.tags, tag].join(",") + "&extags=" + [...pageType.extags];
-                                    return (
-                                        <Link key={index} className="filterTag" to={link}>{tag}</Link>
-                                    );
-                                })
-                            }
-                        </div>
-                    </article>
-                    <div className="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
-                        <ul className="grid-lod effect-2" id="grid">
-                            {
-                                props.posts.items.filter((o, i) => i % 2 == 0).map((md, index) => {
-                                    let title = md.title;
-                                    md.metas.tags.forEach(o => {
-                                        if (TemplateConfig.titleTags.includes(o)) {
-                                            title = "[" + o + "] " + title;
-                                        }
-                                    });
-                                    return (
-                                        <li key={index}>
-                                            <section className="blog-content">
-                                                <Link to={"/" + md.link}>
-                                                    <figure>
-                                                        <div className="post-date">
-                                                            <span>{new Date(md.metas.date).getDate()}</span> {md.metas.date.substring(0, 7)}
-                                                        </div>
-                                                        <img src={md.metas.coverimage} alt="" className="img-responsive" />
-                                                    </figure>
+            <div id="main">
+                {props.posts.items.map((md, index) => {
+                    let title = md.title;
+                    md.metas.tags.forEach(o => {
+                        if (TemplateConfig.titleTags.includes(o)) {
+                            title = "[" + o + "] " + title;
+                        }
+                    });
+                    return (
+                        <article className="post" key={index}>
+                            <header>
+                                <div className="title">
+                                    <h2><Link to={"/" + md.link}>{title}</Link></h2>
+                                </div>
+                                <div className="meta">
+                                    <time className="published" dateTime={md.metas.date}> {md.metas.date}</time>
+                                </div>
+                            </header>
+                            <Link to={"/" + md.link} className="image featured"><img src={md.metas.coverimage} alt={title} /></Link>
+                            <p>{md.excerpt.replaceAll(">", "")}</p>
+                            <ul className="actions">
+                                <li><Link to={"/" + md.link} className="button large">阅读全文</Link></li>
+                            </ul>
+                            <footer>
+                                <ul className="stats">
+                                    <li>分类:</li>
+                                    {md.metas.categories.map((category, index) => {
+                                        return (
+                                            <li key={index}>
+                                                <Link to={"/posts/categories/" + category + "?pagetype=search"}>{category.toUpperCase()}</Link>
+                                            </li>
+                                        );
+                                    })}
+                                </ul>
+                            </footer>
+                            <footer>
+                                <ul className="stats">
+                                    <li>标签:</li>
+                                    {md.metas.tags.map((tag, index) => {
+                                        return (
+                                            <li key={index}>
+                                                <Link to={"/posts/?pagetype=search&tags=" + tag}>
+                                                    {tag.toUpperCase()}
                                                 </Link>
-                                                <article>
-                                                    {title}
-                                                </article>
-                                            </section>
-                                        </li>
-                                    );
-                                })
-                            }
-                        </ul>
-                    </div>
-                    <div className="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                        <ul className="grid-lod effect-2" id="grid">
-                            {
-                                props.posts.items.filter((o, i) => i % 2 != 0).map((md, index) => {
-                                    let title = md.title;
-                                    md.metas.tags.forEach(o => {
-                                        if (TemplateConfig.titleTags.includes(o)) {
-                                            title = "[" + o + "] " + title;
-                                        }
-                                    });
-                                    return (
-                                        <li key={index}>
-                                            <section className="blog-content">
-                                                <Link to={"/" + md.link}>
-                                                    <figure>
-                                                        <div className="post-date">
-                                                            <span>{new Date(md.metas.date).getDate()}</span> {md.metas.date.substring(0, 7)}
-                                                        </div>
-                                                        <img src={md.metas.coverimage} alt="" className="img-responsive" />
-                                                    </figure>
-                                                </Link>
-                                                <article>
-                                                    {title}
-                                                </article>
-                                            </section>
-                                        </li>
-                                    );
-                                })
-                            }
-                        </ul>
-                    </div>
-                </div>
-            </main>
-            <div className="container">
-                <div className="col-full">
-                    <nav className="pgn">
-                        <ul>
-                            {prev}
-                            {next}
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </React.Fragment>
-    )
-}
+                                            </li>
+                                        );
+                                    })}
+                                </ul>
+                            </footer>
+                        </article>
+                    )
+                })}
 
+                <ul className="actions pagination">
+                    {prev}
+                    {next}
+                </ul>
+                <section id="footer">
+                    <p className="copyright">&copy; {new Date().getFullYear()} <Link to="/">{Config.site}</Link>, Template By <a rel="nofollow" target="_blank" href="https://html5up.net">HTML5 UP</a>. Powered By <a href="https://www.sporule.com" target="_blank" >Sporule</a>. </p>
+                </section>
+            </div>
+            <section id="sidebar">
+                <section id="intro">
+                    <a href="#" className="logo"><img src={Config.logo} alt={Config.site} /></a>
+                    <header>
+                        <h2>{Config.site}</h2>
+                        <p>{Config.subTitle}</p>
+                    </header>
+                </section>
+                <section >
+                    <div className="mini-posts">
+                        {
+                            TemplateConfig.navs.map((item, index) => {
+                                return (
+
+                                    <article className="mini-post" key={index}>
+                                        <header>
+                                            <h3><Link to={item.link}>{item.title}</Link></h3>
+                                        </header>
+                                        <Link to={item.link} className="image"><img className="cover" src={item.coverImage} alt={item.subTitle} /></Link>
+                                    </article>
+
+                                );
+                            })
+                        }
+                    </div>
+                </section>
+                <section>
+                    <ul className="posts">
+                        {props.pinnedPosts.items.sort(() => .5 - Math.random()).map((md, i) => {
+                            let title = md.title;
+                            md.metas.tags.forEach(o => {
+                                if (TemplateConfig.titleTags.includes(o)) {
+                                    title = "[" + o + "] " + title;
+                                }
+                            });
+                            return (
+                                <li key={i}>
+                                    <article>
+                                        <header>
+                                            <h3><Link to={"/" + md.link}>{title}</Link></h3>
+                                            <time className="published" dateTime={md.metas.date}> {md.metas.date}</time>
+                                        </header>
+                                        <Link to={"/" + md.link} className="image"><img src={md.metas.coverimage} alt={title} /></Link>
+                                    </article>
+                                </li>
+                            );
+                        })}
+                    </ul>
+                </section>
+                <section className="blurb">
+                    <h2>关于{Config.site}</h2>
+                    <p>{TemplateConfig.aboutUs.description}</p>
+                    <p>{TemplateConfig.aboutUs.content}</p>
+                    {/* <ul className="actions">
+                        <li><a href="#" className="button">Learn More</a></li>
+                    </ul> */}
+                </section>
+            </section>
+        </React.Fragment>
+    );
+}
 
 export default Posts

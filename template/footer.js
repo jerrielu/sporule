@@ -6,23 +6,16 @@ import {Link} from "react-router-dom";
 const FooterTemplate = () => {
     return (
         <React.Fragment>
-            <footer role="footer">
-                <h1>
-                    <Link to="/" title={Config.site}><img src={Config.logo} title={Config.site} alt={Config.site} className="logo"/></Link>
-                </h1>
-                <nav role="footer-nav">
-                    <ul>
-                        {
-                            Object.keys(TemplateConfig.navs).map((index, key) => {
-                                return (
-                                    <li key={index}><Link to={TemplateConfig.navs[index]} title={index}>{index}</Link></li>
-                                );
-                            })
-                        }
-                    </ul>
-                </nav>
-                <p className="copy-right">Copyright (c) 2020 <Link to="/">{Config.site}</Link>, Template By <a rel="nofollow" target="_blank" href="http://www.designstub.com">DesignStub</a>. Powered By <a href="https://www.sporule.com" target="_blank" >Sporule</a>. </p>
-            </footer>
+            {/* <section id="footer">
+						  <ul className="icons">
+							<li><a href="#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
+							<li><a href="#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
+							<li><a href="#" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
+							<li><a href="#" className="icon solid fa-rss"><span className="label">RSS</span></a></li>
+							<li><a href="#" className="icon solid fa-envelope"><span className="label">Email</span></a></li>
+						</ul>  
+                        <p className="copyright">&copy; {new Date().getFullYear()} <Link to="/">{Config.site}</Link>, Template By <a rel="nofollow" target="_blank" href="https://html5up.net">HTML5 UP</a>. Powered By <a href="https://www.sporule.com" target="_blank" >Sporule</a>. </p>
+            </section> */}
         </React.Fragment>
 
     );

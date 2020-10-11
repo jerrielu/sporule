@@ -1,2 +1,2 @@
-# Avana-theme
+# Future Imperfect Theme
 A template for Sporule

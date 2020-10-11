@@ -6,7 +6,7 @@ const Config = {
     keywords: "food, travel",
     logo: "https://svgshare.com/i/K49.svg",
     disqusShortname: "eatsomemore",
-    postPerPage: 24,
+    postPerPage: 5,
     email: "email@example.com",
     language: 'en',
     internalLinkNames: ["eatsomemore"],
