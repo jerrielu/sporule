@@ -29,6 +29,11 @@ const Posts = (props) => {
                 <title>{Config.site} - {matchedPageTypes[0]['title']} </title>
                 <meta name="description" content={matchedPageTypes[0]['description']} />
                 </Helmet>
+    }else if(props.categories.length>0 || props.tags.length>0){
+                helmet = <Helmet>
+                <title>{Config.site} - {props.categories.join(' | ')} - {props.tags.join(' | ')} </title>
+                <meta name="description" content={TemplateConfig.aboutUs['content']} />
+                </Helmet>
     }
     return (
         <React.Fragment>
