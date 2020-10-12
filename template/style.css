@@ -18,3 +18,7 @@ path{
     max-height:280px;
     object-fit: cover;
 }
+
+article p {
+    overflow: hidden!important;
+}
