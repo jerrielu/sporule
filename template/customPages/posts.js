@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import { Link } from "react-router-dom"
 import TemplateConfig from "../_templateConfig";
 import Config from "../../_config";
-
+import { Helmet } from "react-helmet";
 
 const Posts = (props) => {
     var prev;
@@ -21,8 +21,18 @@ const Posts = (props) => {
         </a>
         </li>;
     }
+    let matchedPageTypes = TemplateConfig.navs.filter(o=>decodeURIComponent(window.location.href).includes(o['link']))
+    let helmet = <Helmet></Helmet>
+    if (matchedPageTypes.length>0)
+    {
+        helmet = <Helmet>
+                <title>{Config.site} - {matchedPageTypes[0]['title']} </title>
+                <meta name="description" content={matchedPageTypes[0]['description']} />
+                </Helmet>
+    }
     return (
         <React.Fragment>
+            {helmet}
             <div id="main">
                 {props.posts.items.map((item, index) => {
                     let title = item.title;
