@@ -108,7 +108,6 @@ module.exports = {
         "https://www.eatsomemore.com/posts/categories/%E6%94%BB%E7%95%A5?tags=%E8%8B%B1%E5%9B%BD&pagetype=uk-play",
         "https://www.eatsomemore.com/posts/categories/%E9%A2%84%E5%AE%9A?tags=%E8%8B%B1%E5%9B%BD&pagetype=uk-guide",
         "https://www.eatsomemore.com/posts/categories/%E6%B8%B8%E8%AE%B0?extags=%E8%8B%B1%E5%9B%BD&pagetype=other-tour",
-        "https://www.eatsomemore.com/aboutus"
       ],
       route: "/items",
       outputPath: "sitemap.txt"
