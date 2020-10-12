@@ -3,30 +3,35 @@ const TemplateConfig = {
         {
             "title": "英伦四季高光",
             "subTitle": "游记",
+            "description":"英国只有国会塔桥伦敦眼炸鱼薯条大本钟吗？一起来看看你知道或者不知道的英伦四季有什么吧！",
             "coverImage": "/images/coverimageIMG_20170528_124653_1.jpg",
             "link": "/posts/categories/游记?tags=英国&pagetype=uk-tour",
         },
         {
             "title": "英国吃什么",
             "subTitle": "美食",
+            "description":"常常听人说英国无美食，也看过炸鱼被讽刺，土豆被内涵，所以希望能够通过《英国吃什么》专题为英国的食物正名，跟大家分享在英国旅行的时候有哪些值得体验的地道美食。每一片介绍的标题当中，［推荐］是指如果在附近玩耍的话可以去尝试的好吃的餐厅，［精选］是指在［推荐］餐厅当中都比较优秀的代表，而［必去］则是指即使不在附近也值得特地去吃的餐厅。",
             "coverImage": "/images/coverimage1014646908.jpg",
             "link": "/posts/categories/美食?tags=英国&pagetype=uk-food",
         },
         {
             "title": "英国玩什么",
             "subTitle": "攻略",
+             "description":"来英国不能错过的迷人风景大揭秘。每一片介绍的标题当中，［推荐］是指如果在附近的话可以一去的景点，［精选］是指在［推荐］景点当中都比较优秀的代表，而［必去］则是指即使不在附近也值得特地去看一看的景点。",
             "coverImage": "/images/coverimageIMG_20170701_214925_1.jpg",
             "link": "/posts/categories/攻略?tags=英国&pagetype=uk-play",
         },
         {
             "title": "英国很贵么",
             "subTitle": "签证、交通、住宿及餐饮预定",
+             "description":"英国消费高？我们想要选对的，不选贵的！",
             "coverImage": "/images/coverimage1395493781.jpg",
             "link": "/posts/categories/预定?tags=英国&pagetype=uk-guide",
         },
         {
             "title": "英国之外呢",
             "subTitle": "其他地区游记",
+            "description":"世界那么大，我们当然不能止步英国啦！",
             "coverImage": "/images/coverimageother.jpg",
             "link": "/posts/categories/游记?extags=英国&pagetype=other-tour",
         }
