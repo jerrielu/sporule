@@ -7,8 +7,6 @@ import Config from "../../_config";
 const Posts = (props) => {
     var prev;
     var next;
-    var categories;
-    var tags;
     if (props.prev) {
         prev = <li>
             <a href="#" className="button large previous" onClick={props.prev}>
@@ -23,22 +21,12 @@ const Posts = (props) => {
         </a>
         </li>;
     }
-    if (props.categories.length > 0) {
-        categories = <div>
-            Categories: {props.categories.join(",")}
-        </div>
-    }
-    if (props.tags.length > 0) {
-        tags = <div>
-            Tags: {props.tags.join(",")}
-        </div>
-    }
     return (
         <React.Fragment>
             <div id="main">
-                {props.posts.items.map((md, index) => {
-                    let title = md.title;
-                    md.metas.tags.forEach(o => {
+                {props.posts.items.map((item, index) => {
+                    let title = item.title;
+                    item.metas.tags.forEach(o => {
                         if (TemplateConfig.titleTags.includes(o)) {
                             title = "[" + o + "] " + title;
                         }
@@ -47,21 +35,21 @@ const Posts = (props) => {
                         <article className="post" key={index}>
                             <header>
                                 <div className="title">
-                                    <h2><Link to={"/" + md.link}>{title}</Link></h2>
+                                    <h2><Link to={"/" + item.link}>{title}</Link></h2>
                                 </div>
                                 <div className="meta">
-                                    <time className="published" dateTime={md.metas.date}> {md.metas.date}</time>
+                                    <time className="published" dateTime={item.metas.date}> {item.metas.date}</time>
                                 </div>
                             </header>
-                            <Link to={"/" + md.link} className="image featured"><img src={md.metas.coverimage} alt={title} /></Link>
-                            <p>{md.excerpt.replaceAll(">", "")}</p>
+                            <Link to={"/" + item.link} className="image featured"><img src={item.metas.coverimage} alt={title} /></Link>
+                            <p>{item.excerpt.replaceAll(">", "")}</p>
                             <ul className="actions">
-                                <li><Link to={"/" + md.link} className="button large">阅读全文</Link></li>
+                                <li><Link to={"/" + item.link} className="button large">阅读全文</Link></li>
                             </ul>
                             <footer>
                                 <ul className="stats">
                                     <li>分类:</li>
-                                    {md.metas.categories.map((category, index) => {
+                                    {item.metas.categories.map((category, index) => {
                                         return (
                                             <li key={index}>
                                                 <Link to={"/posts/categories/" + category + "?pagetype=search"}>{category.toUpperCase()}</Link>
@@ -73,7 +61,7 @@ const Posts = (props) => {
                             <footer>
                                 <ul className="stats">
                                     <li>标签:</li>
-                                    {md.metas.tags.map((tag, index) => {
+                                    {item.metas.tags.map((tag, index) => {
                                         return (
                                             <li key={index}>
                                                 <Link to={"/posts/?pagetype=search&tags=" + tag}>
@@ -124,9 +112,9 @@ const Posts = (props) => {
                 </section>
                 <section>
                     <ul className="posts">
-                        {props.pinnedPosts.items.sort(() => .5 - Math.random()).map((md, i) => {
-                            let title = md.title;
-                            md.metas.tags.forEach(o => {
+                        {props.pinnedPosts.items.sort(() => .5 - Math.random()).map((item, i) => {
+                            let title = item.title;
+                            item.metas.tags.forEach(o => {
                                 if (TemplateConfig.titleTags.includes(o)) {
                                     title = "[" + o + "] " + title;
                                 }
@@ -135,10 +123,10 @@ const Posts = (props) => {
                                 <li key={i}>
                                     <article>
                                         <header>
-                                            <h3><Link to={"/" + md.link}>{title}</Link></h3>
-                                            <time className="published" dateTime={md.metas.date}> {md.metas.date}</time>
+                                            <h3><Link to={"/" + item.link}>{title}</Link></h3>
+                                            <time className="published" dateTime={item.metas.date}> {item.metas.date}</time>
                                         </header>
-                                        <Link to={"/" + md.link} className="image"><img src={md.metas.coverimage} alt={title} /></Link>
+                                        <Link to={"/" + item.link} className="image"><img src={item.metas.coverimage} alt={title} /></Link>
                                     </article>
                                 </li>
                             );
