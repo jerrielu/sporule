@@ -3,6 +3,7 @@ import { Link } from "react-router-dom"
 import TemplateConfig from "../_templateConfig";
 import Config from "../../_config";
 import { Helmet } from "react-helmet";
+import * as PostHelper from "../../src/helpers/postHelper";
 
 const Posts = (props) => {
     var prev;
@@ -116,6 +117,7 @@ const Posts = (props) => {
                                     <article className="mini-post" key={index}>
                                         <header>
                                             <h3><Link to={item.link}>{item.title}</Link></h3>
+                                            <p className="description">{item.description}</p>
                                         </header>
                                         <Link to={item.link} className="image"><img className="cover" src={item.coverImage} alt={item.subTitle} /></Link>
                                     </article>
@@ -127,7 +129,7 @@ const Posts = (props) => {
                 </section>
                 <section>
                     <ul className="posts">
-                        {props.pinnedPosts.items.sort(() => .5 - Math.random()).map((item, i) => {
+                        {PostHelper.getPostsByPage(props.all_posts, 0, false, null, [], ['必去'], []).items.slice(0,15).map((item, i) => {
                             let title = item.title;
                             item.metas.tags.forEach(o => {
                                 if (TemplateConfig.titleTags.includes(o)) {

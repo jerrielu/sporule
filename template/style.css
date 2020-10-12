@@ -22,3 +22,11 @@ path{
 article p {
     overflow: hidden!important;
 }
+
+ul.actions {
+    float: right;
+}
+
+.description {
+    margin-top: 1em!important;
+}

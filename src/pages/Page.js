@@ -114,7 +114,7 @@ class Page extends React.Component {
         }
         else {
             const pinnedPosts = PostHelper.getPinnedPosts(this.props.posts);
-            const posts = PostHelper.getPostsByPage(this.props.posts, this.page, true, this.searchString, this.categories, this.tags, this.excludedTags);
+            const posts = PostHelper.getPostsByPage(this.props.posts, this.page, false, this.searchString, this.categories, this.tags, this.excludedTags);
             var prev;
             var next;
             if (posts.hasPrevPage) {
@@ -133,7 +133,7 @@ class Page extends React.Component {
                         <title>{Config.site} - {Page.title}</title>
                         <meta name="description" content={Page.description || Page.title} />
                     </Helmet>
-                    <Page.component posts={posts} categories={this.categories} tags={this.tags} exTags={this.excludedTags} prev={prev} next={next} pinnedPosts={pinnedPosts} searchAction={this.searchAction} />
+                    <Page.component all_posts={this.props.posts} posts={posts} categories={this.categories} tags={this.tags} exTags={this.excludedTags} prev={prev} next={next} pinnedPosts={pinnedPosts} searchAction={this.searchAction} />
                 </React.Fragment>
             )
         }
