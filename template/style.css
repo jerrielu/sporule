@@ -27,3 +27,7 @@ article p {
 .description {
     margin-top: 1em!important;
 }
+
+aside.ScrollUpButton__Container.ScrollUpButton__Toggled{
+    z-index: 9999999;
+}
