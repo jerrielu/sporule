@@ -109,12 +109,8 @@ class Page extends React.Component {
         this.searchString = queryString.parse(this.props.location.search).search || "";
 
         let pageName = this.props.match.params.page || "home";
-        let Page = CustomPages[pageName.toLowerCase()];
-        if (!Page) {
-            this.props.history.push("/404/");
-            return null;
-        }
-        getLinkForPage = (page) => {
+        
+                getLinkForPage = (page) => {
         let search = window.location.search
         let pageNum = queryString.parse(this.props.location.search).page;
         if (pageNum){
@@ -125,8 +121,13 @@ class Page extends React.Component {
             search = search +"?page="+page;
         }
         let link = window.location.pathname + search;
-        this.props.history.push(link);
           }
+                
+        let Page = CustomPages[pageName.toLowerCase()];
+        if (!Page) {
+            this.props.history.push("/404/");
+            return null;
+        }
         else {
             const pinnedPosts = PostHelper.getPinnedPosts(this.props.posts);
             const posts = PostHelper.getPostsByPage(this.props.posts, this.page, false, this.searchString, this.categories, this.tags, this.excludedTags);
