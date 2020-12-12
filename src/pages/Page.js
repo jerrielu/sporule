@@ -110,7 +110,7 @@ class Page extends React.Component {
 
         let pageName = this.props.match.params.page || "home";
         
-                getLinkForPage = (page) => {
+        let getLinkForPage = (page) => {
         let search = window.location.search
         let pageNum = queryString.parse(this.props.location.search).page;
         if (pageNum){
