@@ -1,5 +1,7 @@
 article img {
-    width: 100%;
+    width: 85%;
+    display: block;
+    margin: auto;
 }
 
 #intro .logo:before{
