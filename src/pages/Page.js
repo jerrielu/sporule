@@ -120,8 +120,8 @@ class Page extends React.Component {
         }else{
             search = search +"?page="+page;
         }
-        let link = window.location.pathname + search;
-          }
+        return window.location.pathname + search;
+        }
                 
         let Page = CustomPages[pageName.toLowerCase()];
         if (!Page) {
