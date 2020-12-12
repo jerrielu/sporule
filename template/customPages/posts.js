@@ -10,16 +10,16 @@ const Posts = (props) => {
     var next;
     if (props.prev) {
         prev = <li>
-            <a href="#" className="button large previous" onClick={props.prev}>
+            <Link to={props.getLinkForPage(parseInt(posts.page) - 1)} className="button large previous">
                 Previous Page
-            </a>
+            </Link>
         </li>;
     }
     if (props.next) {
         next = <li className="next">
-            <a href="#" className="button large next" onClick={props.next}>
+            <Link to={props.getLinkForPage(parseInt(posts.page) + 1)} className="button large next">
                 Next Page
-        </a>
+        </Link>
         </li>;
     }
     let matchedPageTypes = TemplateConfig.navs.filter(o=>decodeURIComponent(window.location.href).includes(o['link']))
