@@ -119,11 +119,13 @@ class Page extends React.Component {
             var next;
             if (posts.hasPrevPage) {
                 prev = () => {
+                    event.preventDefault();
                     this.toPage(parseInt(posts.page) - 1);
                 }
             }
             if (posts.hasNextPage) {
                 next = () => {
+                    event.preventDefault();
                     this.toPage(parseInt(posts.page) + 1);
                 }
             }
