@@ -10,14 +10,14 @@ const Posts = (props) => {
     var next;
     if (props.prev) {
         prev = <li>
-            <Link to={props.getLinkForPage(parseInt(posts.page) - 1)} className="button large previous">
+            <Link to={props.getLinkForPage(parseInt(props.posts.page) - 1)} className="button large previous">
                 Previous Page
             </Link>
         </li>;
     }
     if (props.next) {
         next = <li className="next">
-            <Link to={props.getLinkForPage(parseInt(posts.page) + 1)} className="button large next">
+            <Link to={props.getLinkForPage(parseInt(props.posts.page) + 1)} className="button large next">
                 Next Page
         </Link>
         </li>;
