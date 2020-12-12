@@ -76,6 +76,8 @@ class Page extends React.Component {
         let link = window.location.pathname + search;
         this.props.history.push(link);
     }
+    
+
 
     searchAction = (search_route) => {
         event.preventDefault();
@@ -112,6 +114,19 @@ class Page extends React.Component {
             this.props.history.push("/404/");
             return null;
         }
+        getLinkForPage = (page) => {
+        let search = window.location.search
+        let pageNum = queryString.parse(this.props.location.search).page;
+        if (pageNum){
+            search = search.replaceAll("page="+pageNum,"page="+page)
+        }else if(search.includes("?")){
+            search = search+"&page="+page;
+        }else{
+            search = search +"?page="+page;
+        }
+        let link = window.location.pathname + search;
+        this.props.history.push(link);
+          }
         else {
             const pinnedPosts = PostHelper.getPinnedPosts(this.props.posts);
             const posts = PostHelper.getPostsByPage(this.props.posts, this.page, false, this.searchString, this.categories, this.tags, this.excludedTags);
@@ -135,7 +150,7 @@ class Page extends React.Component {
                         <title>{Config.site} - {Page.title}</title>
                         <meta name="description" content={Page.description || Page.title} />
                     </Helmet>
-                    <Page.component all_posts={this.props.posts} posts={posts} categories={this.categories} tags={this.tags} exTags={this.excludedTags} prev={prev} next={next} pinnedPosts={pinnedPosts} searchAction={this.searchAction} />
+                    <Page.component all_posts={this.props.posts} posts={posts} getLinkForPage={getLinkForPage} categories={this.categories} tags={this.tags} exTags={this.excludedTags} prev={prev} next={next} pinnedPosts={pinnedPosts} searchAction={this.searchAction} />
                 </React.Fragment>
             )
         }
